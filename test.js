@@ -27,3 +27,19 @@ console.log(
 console.log(
   normalize.doesSupport("ETH", "kraken.com") // true
 )
+
+console.log(
+  normalize.coin("ZEC")
+  /*
+  { name: 'Zcash',
+  symbol: 'ZEC',
+  images:
+   { large: 'https://shapeshift.io/images/coins/zcash.png',
+     small: 'https://shapeshift.io/images/coins-sm/zcash.png' },
+  service:
+   { 'coincap.io': 'ZEC',
+     'coinmarketcap.com': 'zcash',
+     'kraken.com': 'XZEC',
+     'shapeshift.io': 'ZEC' } }
+  */
+)

@@ -29,5 +29,9 @@ module.exports = {
 
   doesSupport: (coin, service) => {
     return (glossary[coin].service[service]) ? true : false
+  },
+
+  coin: coin => {
+    return (glossary[coin])
   }
 }
