@@ -9,22 +9,23 @@ let glossary = Object.assign({}, supportedCurrencies)
 walker.on('file', (root, fileStats, next) => {
   const dictionary = require(`./dictionaries/${fileStats.name}`)
   const tempGlossary = Object.assign({}, glossary)
-
+  
   Object.keys(dictionary).map((coin, i) => {
-    tempGlossary[coin] = Object.assign(
-      {}, 
-      tempGlossary[coin], 
-      {
-        service: Object.assign(
-          {},
-          glossary[coin].service,
-          {
-            [fileStats.name.replace('.json', '')]: dictionary[coin]
-          }
-        )
-      }
-    )
-    
+    if (glossary[coin]) {
+      tempGlossary[coin] = Object.assign(
+        {}, 
+        tempGlossary[coin], 
+        {
+          service: Object.assign(
+            {},
+            glossary[coin].service,
+            {
+              [fileStats.name.replace('.json', '')]: dictionary[coin]
+            }
+          )
+        }
+      ) 
+    }
 
 
     if (i === Object.keys(dictionary).length - 1) {
