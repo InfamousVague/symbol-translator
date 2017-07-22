@@ -1,0 +1,630 @@
+{
+  "BTC": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "service": {
+      "coincap.io": "BTC",
+      "coinmarketcap.com": "bitcoin",
+      "kraken.com": "XXBT",
+      "shapeshift.io": "BTC"
+    }
+  },
+  "ANT": {
+    "name": "Aragon",
+    "symbol": "ANT",
+    "service": {
+      "coincap.io": "ANT",
+      "coinmarketcap.com": "aragon",
+      "shapeshift.io": "ANT"
+    }
+  },
+  "BAT": {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "service": {
+      "coincap.io": "BAT",
+      "coinmarketcap.com": "basic-attention-token",
+      "shapeshift.io": "BAT"
+    }
+  },
+  "BNT": {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "service": {
+      "coincap.io": "BNT",
+      "coinmarketcap.com": "bancor",
+      "shapeshift.io": "BNT"
+    }
+  },
+  "BCY": {
+    "name": "BitCrystals",
+    "symbol": "BCY",
+    "service": {
+      "coincap.io": "BCY",
+      "coinmarketcap.com": "bitcrystals",
+      "shapeshift.io": "BCY"
+    }
+  },
+  "BLK": {
+    "name": "Blackcoin",
+    "symbol": "BLK",
+    "service": {
+      "coincap.io": "BLK",
+      "coinmarketcap.com": "blackcoin",
+      "shapeshift.io": "BLK"
+    }
+  },
+  "BTCD": {
+    "name": "BitcoinDark",
+    "symbol": "BTCD",
+    "service": {
+      "coincap.io": "BTCD",
+      "coinmarketcap.com": "bitcoindark",
+      "shapeshift.io": "BTCD"
+    }
+  },
+  "BTS": {
+    "name": "Bitshares",
+    "symbol": "BTS",
+    "service": {
+      "coincap.io": "BTS",
+      "coinmarketcap.com": "bitshares",
+      "shapeshift.io": "BTS"
+    }
+  },
+  "CVC": {
+    "name": "Civic",
+    "symbol": "CVC",
+    "service": {
+      "coincap.io": "CVC",
+      "coinmarketcap.com": "civic",
+      "shapeshift.io": "CVC"
+    }
+  },
+  "CLAM": {
+    "name": "Clams",
+    "symbol": "CLAM",
+    "service": {
+      "coincap.io": "CLAM",
+      "coinmarketcap.com": "clams",
+      "shapeshift.io": "CLAM"
+    }
+  },
+  "DASH": {
+    "name": "Dash",
+    "symbol": "DASH",
+    "service": {
+      "coincap.io": "DASH",
+      "coinmarketcap.com": "dash",
+      "kraken.com": "DASH",
+      "shapeshift.io": "DASH"
+    }
+  },
+  "DCR": {
+    "name": "Decred",
+    "symbol": "DCR",
+    "service": {
+      "coincap.io": "DCR",
+      "coinmarketcap.com": "decred",
+      "shapeshift.io": "DCR"
+    }
+  },
+  "DGB": {
+    "name": "Digibyte",
+    "symbol": "DGB",
+    "service": {
+      "coincap.io": "DGB",
+      "coinmarketcap.com": "digibyte",
+      "kraken.com": "XXDG",
+      "shapeshift.io": "DGB"
+    }
+  },
+  "DGD": {
+    "name": "DigixDao",
+    "symbol": "DGD",
+    "service": {
+      "coincap.io": "DGD",
+      "coinmarketcap.com": "digixdao",
+      "shapeshift.io": "DGD"
+    }
+  },
+  "DOGE": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "service": {
+      "coincap.io": "DOGE",
+      "coinmarketcap.com": "dogecoin",
+      "shapeshift.io": "DOGE"
+    }
+  },
+  "EMC": {
+    "name": "Emercoin",
+    "symbol": "EMC",
+    "service": {
+      "coincap.io": "EMC",
+      "coinmarketcap.com": "emercoin",
+      "shapeshift.io": "EMC"
+    }
+  },
+  "EDG": {
+    "name": "Edgeless",
+    "symbol": "EDG",
+    "service": {
+      "coincap.io": "EDG",
+      "coinmarketcap.com": "edgeless",
+      "shapeshift.io": "EDG"
+    }
+  },
+  "EOS": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "service": {
+      "coincap.io": "EOS",
+      "coinmarketcap.com": "eos",
+      "kraken.com": "EOS",
+      "shapeshift.io": "EOS"
+    }
+  },
+  "ETH": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "service": {
+      "coincap.io": "ETH",
+      "coinmarketcap.com": "ethereum",
+      "kraken.com": "XETH",
+      "shapeshift.io": "ETH"
+    }
+  },
+  "ETC": {
+    "name": "Ether Classic",
+    "symbol": "ETC",
+    "service": {
+      "coincap.io": "ETC",
+      "coinmarketcap.com": "ethereum-classic",
+      "kraken.com": "XETC",
+      "shapeshift.io": "ETC"
+    }
+  },
+  "FCT": {
+    "name": "Factoids",
+    "symbol": "FCT",
+    "service": {
+      "coincap.io": "FCT",
+      "coinmarketcap.com": "factom",
+      "shapeshift.io": "FCT"
+    }
+  },
+  "FUN": {
+    "name": "FunFair",
+    "symbol": "FUN",
+    "service": {
+      "coincap.io": "FUN",
+      "coinmarketcap.com": "funfair",
+      "shapeshift.io": "FUN"
+    }
+  },
+  "GAME": {
+    "name": "GameCredits",
+    "symbol": "GAME",
+    "service": {
+      "coincap.io": "GAME",
+      "coinmarketcap.com": "gamecredits",
+      "shapeshift.io": "GAME"
+    }
+  },
+  "GNO": {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "service": {
+      "coincap.io": "GNO",
+      "coinmarketcap.com": "gnosis-gno",
+      "kraken.com": "GNO",
+      "shapeshift.io": "GNO"
+    }
+  },
+  "GNT": {
+    "name": "Golem",
+    "symbol": "GNT",
+    "service": {
+      "coincap.io": "GNT",
+      "coinmarketcap.com": "golem-network-tokens",
+      "shapeshift.io": "GNT"
+    }
+  },
+  "GUP": {
+    "name": "Matchpool",
+    "symbol": "GUP",
+    "service": {
+      "coincap.io": "GUP",
+      "coinmarketcap.com": "guppy",
+      "shapeshift.io": "GUP"
+    }
+  },
+  "ICN": {
+    "name": "Iconomi",
+    "symbol": "ICN",
+    "service": {
+      "coincap.io": "ICN",
+      "coinmarketcap.com": "iconomi",
+      "kraken.com": "XICN",
+      "shapeshift.io": "ICN"
+    }
+  },
+  "KMD": {
+    "name": "Komodo",
+    "symbol": "KMD",
+    "service": {
+      "coincap.io": "KMD",
+      "coinmarketcap.com": "komodo",
+      "shapeshift.io": "KMD"
+    }
+  },
+  "LBC": {
+    "name": "LBRY Credits",
+    "symbol": "LBC",
+    "service": {
+      "coincap.io": "LBC",
+      "coinmarketcap.com": "library-credi",
+      "shapeshift.io": "LBC"
+    }
+  },
+  "LSK": {
+    "name": "Lisk",
+    "symbol": "LSK",
+    "service": {
+      "coincap.io": "LSK",
+      "coinmarketcap.com": "lisk",
+      "shapeshift.io": "LSK"
+    }
+  },
+  "LTC": {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "service": {
+      "coincap.io": "LTC",
+      "coinmarketcap.com": "litecoin",
+      "kraken.com": "XLTC",
+      "shapeshift.io": "LTC"
+    }
+  },
+  "MAID": {
+    "name": "Maidsafe",
+    "symbol": "MAID",
+    "service": {
+      "coincap.io": "MAID",
+      "coinmarketcap.com": "maidsafecoin",
+      "shapeshift.io": "MAID"
+    }
+  },
+  "MLN": {
+    "name": "Melon",
+    "symbol": "MLN",
+    "service": {
+      "coincap.io": "MLN",
+      "coinmarketcap.com": "melon",
+      "kraken.com": "XMLN",
+      "shapeshift.io": "MLN"
+    }
+  },
+  "MTL": {
+    "name": "Metal",
+    "symbol": "MTL",
+    "service": {
+      "coincap.io": "MTL",
+      "coinmarketcap.com": "metal",
+      "shapeshift.io": "MTL"
+    }
+  },
+  "MONA": {
+    "name": "Monacoin",
+    "symbol": "MONA",
+    "service": {
+      "coincap.io": "MONA",
+      "coinmarketcap.com": "monacoin",
+      "shapeshift.io": "MONA"
+    }
+  },
+  "MSC": {
+    "name": "Omni",
+    "symbol": "MSC",
+    "service": {
+      "coincap.io": "MSC",
+      "coinmarketcap.com": "omni",
+      "shapeshift.io": "MSC"
+    }
+  },
+  "NBT": {
+    "name": "Nubits",
+    "symbol": "NBT",
+    "service": {
+      "coincap.io": "NBT",
+      "coinmarketcap.com": "nubits",
+      "shapeshift.io": "NBT"
+    }
+  },
+  "NMC": {
+    "name": "Namecoin",
+    "symbol": "NMC",
+    "service": {
+      "coincap.io": "NMC",
+      "coinmarketcap.com": "namecoin",
+      "kraken.com": "XNMC",
+      "shapeshift.io": "NMC"
+    }
+  },
+  "NMR": {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "service": {
+      "coincap.io": "NMR",
+      "coinmarketcap.com": "numeraire",
+      "shapeshift.io": "NMR"
+    }
+  },
+  "NVC": {
+    "name": "Novacoin",
+    "symbol": "NVC",
+    "service": {
+      "coincap.io": "NVC",
+      "coinmarketcap.com": "novacoin",
+      "shapeshift.io": "NVC"
+    }
+  },
+  "NXT": {
+    "name": "Nxt",
+    "symbol": "NXT",
+    "service": {
+      "coincap.io": "NXT",
+      "coinmarketcap.com": "nxt",
+      "shapeshift.io": "NXT"
+    }
+  },
+  "OMG": {
+    "name": "OmiseGo",
+    "symbol": "OMG",
+    "service": {
+      "coincap.io": "OMG",
+      "coinmarketcap.com": "omisego",
+      "shapeshift.io": "OMG"
+    }
+  },
+  "PAY": {
+    "name": "TenX",
+    "symbol": "PAY",
+    "service": {
+      "coincap.io": "PAY",
+      "coinmarketcap.com": "tenx",
+      "shapeshift.io": "PAY"
+    }
+  },
+  "POT": {
+    "name": "Potcoin",
+    "symbol": "POT",
+    "service": {
+      "coincap.io": "POT",
+      "coinmarketcap.com": "potcoin",
+      "shapeshift.io": "POT"
+    }
+  },
+  "PPC": {
+    "name": "Peercoin",
+    "symbol": "PPC",
+    "service": {
+      "coincap.io": "PPC",
+      "coinmarketcap.com": "peercoin",
+      "shapeshift.io": "PPC"
+    }
+  },
+  "REP": {
+    "name": "Augur",
+    "symbol": "REP",
+    "service": {
+      "coincap.io": "REP",
+      "coinmarketcap.com": "augur",
+      "kraken.com": "XREP",
+      "shapeshift.io": "REP"
+    }
+  },
+  "RDD": {
+    "name": "Reddcoin",
+    "symbol": "RDD",
+    "service": {
+      "coincap.io": "RDD",
+      "coinmarketcap.com": "reddcoin",
+      "shapeshift.io": "RDD"
+    }
+  },
+  "RLC": {
+    "name": "iExec",
+    "symbol": "RLC",
+    "service": {
+      "coincap.io": "RLC",
+      "coinmarketcap.com": "rlc",
+      "shapeshift.io": "RLC"
+    }
+  },
+  "SDC": {
+    "name": "Shadowcash",
+    "symbol": "SDC",
+    "service": {
+      "coincap.io": "SDC",
+      "coinmarketcap.com": "shadowcash",
+      "shapeshift.io": "SDC"
+    }
+  },
+  "SC": {
+    "name": "Siacoin",
+    "symbol": "SC",
+    "service": {
+      "coincap.io": "SC",
+      "coinmarketcap.com": "siacoin",
+      "shapeshift.io": "SC"
+    }
+  },
+  "SNT": {
+    "name": "Status",
+    "symbol": "SNT",
+    "service": {
+      "coincap.io": "SNT",
+      "coinmarketcap.com": "status",
+      "shapeshift.io": "SNT"
+    }
+  },
+  "SJCX": {
+    "name": "StorjX",
+    "symbol": "SJCX",
+    "service": {
+      "coincap.io": "SJCX",
+      "coinmarketcap.com": "storjcoin-x",
+      "shapeshift.io": "SJCX"
+    }
+  },
+  "START": {
+    "name": "Startcoin",
+    "symbol": "START",
+    "service": {
+      "coincap.io": "START",
+      "coinmarketcap.com": "startcoin",
+      "shapeshift.io": "START"
+    }
+  },
+  "STEEM": {
+    "name": "Steem",
+    "symbol": "STEEM",
+    "service": {
+      "coincap.io": "STEEM",
+      "coinmarketcap.com": "steem",
+      "shapeshift.io": "STEEM"
+    }
+  },
+  "SNGLS": {
+    "name": "SingularDTV",
+    "symbol": "SNGLS",
+    "service": {
+      "coincap.io": "SNGLS",
+      "coinmarketcap.com": "singulardtv",
+      "shapeshift.io": "SNGLS"
+    }
+  },
+  "SWT": {
+    "name": "Swarm City",
+    "symbol": "SWT",
+    "service": {
+      "coincap.io": "SWT",
+      "coinmarketcap.com": "swarm-city",
+      "shapeshift.io": "SWT"
+    }
+  },
+  "TKN": {
+    "name": "TokenCard",
+    "symbol": "TKN",
+    "service": {
+      "coincap.io": "TKN",
+      "coinmarketcap.com": "tokencard",
+      "shapeshift.io": "TKN"
+    }
+  },
+  "TRST": {
+    "name": "WeTrust",
+    "symbol": "TRST",
+    "service": {
+      "coincap.io": "TRST",
+      "coinmarketcap.com": "trust",
+      "shapeshift.io": "TRST"
+    }
+  },
+  "USDT": {
+    "name": "Tether",
+    "symbol": "USDT",
+    "service": {
+      "coincap.io": "USDT",
+      "coinmarketcap.com": "tether",
+      "kraken.com": "USDT",
+      "shapeshift.io": "USDT"
+    }
+  },
+  "VOX": {
+    "name": "Voxels",
+    "symbol": "VOX",
+    "service": {
+      "coincap.io": "VOX",
+      "coinmarketcap.com": "voxels",
+      "shapeshift.io": "VOX"
+    }
+  },
+  "VRC": {
+    "name": "Vericoin",
+    "symbol": "VRC",
+    "service": {
+      "coincap.io": "VRC",
+      "coinmarketcap.com": "vericoin",
+      "shapeshift.io": "VRC"
+    }
+  },
+  "VTC": {
+    "name": "Vertcoin",
+    "symbol": "VTC",
+    "service": {
+      "coincap.io": "VTC",
+      "coinmarketcap.com": "vertcoin",
+      "shapeshift.io": "VTC"
+    }
+  },
+  "WAVES": {
+    "name": "Waves",
+    "symbol": "WAVES",
+    "service": {
+      "coincap.io": "WAVES",
+      "coinmarketcap.com": "waves",
+      "shapeshift.io": "WAVES"
+    }
+  },
+  "WINGS": {
+    "name": "Wings",
+    "symbol": "WINGS",
+    "service": {
+      "coincap.io": "WINGS",
+      "coinmarketcap.com": "wings",
+      "shapeshift.io": "WINGS"
+    }
+  },
+  "XCP": {
+    "name": "Counterparty",
+    "symbol": "XCP",
+    "service": {
+      "coincap.io": "XCP",
+      "coinmarketcap.com": "counterparty",
+      "shapeshift.io": "XCP"
+    }
+  },
+  "XMR": {
+    "name": "Monero",
+    "symbol": "XMR",
+    "service": {
+      "coincap.io": "XMP",
+      "coinmarketcap.com": "monero",
+      "kraken.com": "XXMR",
+      "shapeshift.io": "XMP"
+    }
+  },
+  "XRP": {
+    "name": "Ripple",
+    "symbol": "XRP",
+    "service": {
+      "coincap.io": "XRP",
+      "coinmarketcap.com": "ripple",
+      "kraken.com": "XXRP",
+      "shapeshift.io": "XRP"
+    }
+  },
+  "ZEC": {
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "service": {
+      "coincap.io": "ZEC",
+      "coinmarketcap.com": "zcash",
+      "kraken.com": "XZEC",
+      "shapeshift.io": "ZEC"
+    }
+  }
+}

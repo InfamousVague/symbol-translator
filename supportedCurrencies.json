@@ -1,0 +1,274 @@
+{
+  "BTC": {
+    "name": "Bitcoin",
+    "symbol": "BTC"
+  },
+  "ANT": {
+    "name": "Aragon",
+    "symbol": "ANT"
+  },
+  "BAT": {
+    "name": "Basic Attention Token",
+    "symbol": "BAT"
+  },
+  "BNT": {
+    "name": "Bancor",
+    "symbol": "BNT"
+  },
+  "BCY": {
+    "name": "BitCrystals",
+    "symbol": "BCY"
+  },
+  "BLK": {
+    "name": "Blackcoin",
+    "symbol": "BLK"
+  },
+  "BTCD": {
+    "name": "BitcoinDark",
+    "symbol": "BTCD"
+  },
+  "BTS": {
+    "name": "Bitshares",
+    "symbol": "BTS"
+  },
+  "CVC": {
+    "name": "Civic",
+    "symbol": "CVC"
+  },
+  "CLAM": {
+    "name": "Clams",
+    "symbol": "CLAM"
+  },
+  "DASH": {
+    "name": "Dash",
+    "symbol": "DASH"
+  },
+  "DCR": {
+    "name": "Decred",
+    "symbol": "DCR"
+  },
+  "DGB": {
+    "name": "Digibyte",
+    "symbol": "DGB"
+  },
+  "DGD": {
+    "name": "DigixDao",
+    "symbol": "DGD"
+  },
+  "DOGE": {
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  "EMC": {
+    "name": "Emercoin",
+    "symbol": "EMC"
+  },
+  "EDG": {
+    "name": "Edgeless",
+    "symbol": "EDG"
+  },
+  "EOS": {
+    "name": "EOS",
+    "symbol": "EOS"
+  },
+  "ETH": {
+    "name": "Ether",
+    "symbol": "ETH"
+  },
+  "ETC": {
+    "name": "Ether Classic",
+    "symbol": "ETC"
+  },
+  "FCT": {
+    "name": "Factoids",
+    "symbol": "FCT"
+  },
+  "FUN": {
+    "name": "FunFair",
+    "symbol": "FUN"
+  },
+  "GAME": {
+    "name": "GameCredits",
+    "symbol": "GAME"
+  },
+  "GNO": {
+    "name": "Gnosis",
+    "symbol": "GNO"
+  },
+  "GNT": {
+    "name": "Golem",
+    "symbol": "GNT"
+  },
+  "GUP": {
+    "name": "Matchpool",
+    "symbol": "GUP"
+  },
+  "ICN": {
+    "name": "Iconomi",
+    "symbol": "ICN"
+  },
+  "KMD": {
+    "name": "Komodo",
+    "symbol": "KMD"
+  },
+  "LBC": {
+    "name": "LBRY Credits",
+    "symbol": "LBC"
+  },
+  "LSK": {
+    "name": "Lisk",
+    "symbol": "LSK"
+  },
+  "LTC": {
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  "MAID": {
+    "name": "Maidsafe",
+    "symbol": "MAID"
+  },
+  "MLN": {
+    "name": "Melon",
+    "symbol": "MLN"
+  },
+  "MTL": {
+    "name": "Metal",
+    "symbol": "MTL"
+  },
+  "MONA": {
+    "name": "Monacoin",
+    "symbol": "MONA"
+  },
+  "MSC": {
+    "name": "Omni",
+    "symbol": "MSC"
+  },
+  "NBT": {
+    "name": "Nubits",
+    "symbol": "NBT"
+  },
+  "NMC": {
+    "name": "Namecoin",
+    "symbol": "NMC"
+  },
+  "NMR": {
+    "name": "Numeraire",
+    "symbol": "NMR"
+  },
+  "NVC": {
+    "name": "Novacoin",
+    "symbol": "NVC"
+  },
+  "NXT": {
+    "name": "Nxt",
+    "symbol": "NXT"
+  },
+  "OMG": {
+    "name": "OmiseGo",
+    "symbol": "OMG"
+  },
+  "PAY": {
+    "name": "TenX",
+    "symbol": "PAY"
+  },
+  "POT": {
+    "name": "Potcoin",
+    "symbol": "POT"
+  },
+  "PPC": {
+    "name": "Peercoin",
+    "symbol": "PPC"
+  },
+  "REP": {
+    "name": "Augur",
+    "symbol": "REP"
+  },
+  "RDD": {
+    "name": "Reddcoin",
+    "symbol": "RDD"
+  },
+  "RLC": {
+    "name": "iExec",
+    "symbol": "RLC"
+  },
+  "SDC": {
+    "name": "Shadowcash",
+    "symbol": "SDC"
+  },
+  "SC": {
+    "name": "Siacoin",
+    "symbol": "SC"
+  },
+  "SNT": {
+    "name": "Status",
+    "symbol": "SNT"
+  },
+  "SJCX": {
+    "name": "StorjX",
+    "symbol": "SJCX"
+  },
+  "START": {
+    "name": "Startcoin",
+    "symbol": "START"
+  },
+  "STEEM": {
+    "name": "Steem",
+    "symbol": "STEEM"
+  },
+  "SNGLS": {
+    "name": "SingularDTV",
+    "symbol": "SNGLS"
+  },
+  "SWT": {
+    "name": "Swarm City",
+    "symbol": "SWT"
+  },
+  "TKN": {
+    "name": "TokenCard",
+    "symbol": "TKN"
+  },
+  "TRST": {
+    "name": "WeTrust",
+    "symbol": "TRST"
+  },
+  "USDT": {
+    "name": "Tether",
+    "symbol": "USDT"
+  },
+  "VOX": {
+    "name": "Voxels",
+    "symbol": "VOX"
+  },
+  "VRC": {
+    "name": "Vericoin",
+    "symbol": "VRC"
+  },
+  "VTC": {
+    "name": "Vertcoin",
+    "symbol": "VTC"
+  },
+  "WAVES": {
+    "name": "Waves",
+    "symbol": "WAVES"
+  },
+  "WINGS": {
+    "name": "Wings",
+    "symbol": "WINGS"
+  },
+  "XCP": {
+    "name": "Counterparty",
+    "symbol": "XCP"
+  },
+  "XMR": {
+    "name": "Monero",
+    "symbol": "XMR"
+  },
+  "XRP": {
+    "name": "Ripple",
+    "symbol": "XRP"
+  },
+  "ZEC": {
+    "name": "Zcash",
+    "symbol": "ZEC"
+  }
+}
