@@ -1,8 +1,8 @@
 {
-  "name": "symbol-translator",
-  "version": "1.0.0",
+  "name": "crypto-normalize",
+  "version": "1.0.2",
   "description": "Apparently nobody can agree on crypto naming conventions, this package aggregates popular exchanges and sites and allows you to easily translate from our spec to other parties conventions.",
-  "main": "build.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +11,15 @@
     "url": "git+https://github.com/wski/symbol-translator.git"
   },
   "author": "wski <contact.mattdylan@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wski/symbol-translator/issues"
   },
+  "keywords": [
+    "crypto",
+    "normalize",
+    "symbol"
+  ],
   "homepage": "https://github.com/wski/symbol-translator#readme",
   "dependencies": {
     "walk": "^2.3.9"
