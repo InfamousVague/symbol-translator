@@ -1,274 +1,546 @@
 {
   "BTC": {
     "name": "Bitcoin",
-    "symbol": "BTC"
+    "symbol": "BTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
+    }
   },
   "ANT": {
     "name": "Aragon",
-    "symbol": "ANT"
+    "symbol": "ANT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/aragon.png",
+      "small": "https://shapeshift.io/images/coins-sm/aragon.png"
+    }
   },
   "BAT": {
     "name": "Basic Attention Token",
-    "symbol": "BAT"
+    "symbol": "BAT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/basicattentiontoken.png",
+      "small": "https://shapeshift.io/images/coins-sm/basicattentiontoken.png"
+    }
   },
   "BNT": {
     "name": "Bancor",
-    "symbol": "BNT"
+    "symbol": "BNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bancor.png",
+      "small": "https://shapeshift.io/images/coins-sm/bancor.png"
+    }
   },
   "BCY": {
     "name": "BitCrystals",
-    "symbol": "BCY"
+    "symbol": "BCY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcrystals.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcrystals.png"
+    }
   },
   "BLK": {
     "name": "Blackcoin",
-    "symbol": "BLK"
+    "symbol": "BLK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/blackcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/blackcoin.png"
+    }
   },
   "BTCD": {
     "name": "BitcoinDark",
-    "symbol": "BTCD"
+    "symbol": "BTCD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcoindark.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcoindark.png"
+    }
   },
   "BTS": {
     "name": "Bitshares",
-    "symbol": "BTS"
+    "symbol": "BTS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitshares.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitshares.png"
+    }
   },
   "CVC": {
     "name": "Civic",
-    "symbol": "CVC"
+    "symbol": "CVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/civic.png",
+      "small": "https://shapeshift.io/images/coins-sm/civic.png"
+    }
   },
   "CLAM": {
     "name": "Clams",
-    "symbol": "CLAM"
+    "symbol": "CLAM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/clams.png",
+      "small": "https://shapeshift.io/images/coins-sm/clams.png"
+    }
   },
   "DASH": {
     "name": "Dash",
-    "symbol": "DASH"
+    "symbol": "DASH",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/dash.png",
+      "small": "https://shapeshift.io/images/coins-sm/dash.png"
+    }
   },
   "DCR": {
     "name": "Decred",
-    "symbol": "DCR"
+    "symbol": "DCR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/decred.png",
+      "small": "https://shapeshift.io/images/coins-sm/decred.png"
+    }
   },
   "DGB": {
     "name": "Digibyte",
-    "symbol": "DGB"
+    "symbol": "DGB",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digibyte.png",
+      "small": "https://shapeshift.io/images/coins-sm/digibyte.png"
+    }
   },
   "DGD": {
     "name": "DigixDao",
-    "symbol": "DGD"
+    "symbol": "DGD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digixdao.png",
+      "small": "https://shapeshift.io/images/coins-sm/digixdao.png"
+    }
   },
   "DOGE": {
     "name": "Dogecoin",
-    "symbol": "DOGE"
+    "symbol": "DOGE",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/dogecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/dogecoin.png"
+    }
   },
   "EMC": {
     "name": "Emercoin",
-    "symbol": "EMC"
+    "symbol": "EMC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/emercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/emercoin.png"
+    }
   },
   "EDG": {
     "name": "Edgeless",
-    "symbol": "EDG"
+    "symbol": "EDG",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/edgeless.png",
+      "small": "https://shapeshift.io/images/coins-sm/edgeless.png"
+    }
   },
   "EOS": {
     "name": "EOS",
-    "symbol": "EOS"
+    "symbol": "EOS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/eos.png",
+      "small": "https://shapeshift.io/images/coins-sm/eos.jpeg"
+    }
   },
   "ETH": {
     "name": "Ether",
-    "symbol": "ETH"
+    "symbol": "ETH",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/ether.png",
+      "small": "https://shapeshift.io/images/coins-sm/ether.png"
+    }
   },
   "ETC": {
     "name": "Ether Classic",
-    "symbol": "ETC"
+    "symbol": "ETC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/etherclassic.png",
+      "small": "https://shapeshift.io/images/coins-sm/etherclassic.png"
+    }
   },
   "FCT": {
     "name": "Factoids",
-    "symbol": "FCT"
+    "symbol": "FCT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/factoids.png",
+      "small": "https://shapeshift.io/images/coins-sm/factoids.png"
+    }
   },
   "FUN": {
     "name": "FunFair",
-    "symbol": "FUN"
+    "symbol": "FUN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/funfair.png",
+      "small": "https://shapeshift.io/images/coins-sm/funfair.png"
+    }
   },
   "GAME": {
     "name": "GameCredits",
-    "symbol": "GAME"
+    "symbol": "GAME",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/game.png",
+      "small": "https://shapeshift.io/images/coins-sm/game.png"
+    }
   },
   "GNO": {
     "name": "Gnosis",
-    "symbol": "GNO"
+    "symbol": "GNO",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/gnosis.png",
+      "small": "https://shapeshift.io/images/coins-sm/gnosis.png"
+    }
   },
   "GNT": {
     "name": "Golem",
-    "symbol": "GNT"
+    "symbol": "GNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/golem.png",
+      "small": "https://shapeshift.io/images/coins-sm/golem.png"
+    }
   },
   "GUP": {
     "name": "Matchpool",
-    "symbol": "GUP"
+    "symbol": "GUP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/matchpool.png",
+      "small": "https://shapeshift.io/images/coins-sm/matchpool.png"
+    }
   },
   "ICN": {
     "name": "Iconomi",
-    "symbol": "ICN"
+    "symbol": "ICN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iconomi.png",
+      "small": "https://shapeshift.io/images/coins-sm/iconomi.png"
+    }
   },
   "KMD": {
     "name": "Komodo",
-    "symbol": "KMD"
+    "symbol": "KMD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/komodo.png",
+      "small": "https://shapeshift.io/images/coins-sm/komodo.png"
+    }
   },
   "LBC": {
     "name": "LBRY Credits",
-    "symbol": "LBC"
+    "symbol": "LBC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lbry.png",
+      "small": "https://shapeshift.io/images/coins-sm/lbry.png"
+    }
   },
   "LSK": {
     "name": "Lisk",
-    "symbol": "LSK"
+    "symbol": "LSK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lisk.png",
+      "small": "https://shapeshift.io/images/coins-sm/lisk.png"
+    }
   },
   "LTC": {
     "name": "Litecoin",
-    "symbol": "LTC"
+    "symbol": "LTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/litecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/litecoin.png"
+    }
   },
   "MAID": {
     "name": "Maidsafe",
-    "symbol": "MAID"
+    "symbol": "MAID",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/maidsafe.png",
+      "small": "https://shapeshift.io/images/coins-sm/maidsafe.png"
+    }
   },
   "MLN": {
     "name": "Melon",
-    "symbol": "MLN"
+    "symbol": "MLN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/melon.png",
+      "small": "https://shapeshift.io/images/coins-sm/melon.png"
+    }
   },
   "MTL": {
     "name": "Metal",
-    "symbol": "MTL"
+    "symbol": "MTL",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/metal.png",
+      "small": "https://shapeshift.io/images/coins-sm/metal.png"
+    }
   },
   "MONA": {
     "name": "Monacoin",
-    "symbol": "MONA"
+    "symbol": "MONA",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/monacoin.png"
+    }
   },
   "MSC": {
     "name": "Omni",
-    "symbol": "MSC"
+    "symbol": "MSC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/mastercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/mastercoin.png"
+    }
   },
   "NBT": {
     "name": "Nubits",
-    "symbol": "NBT"
+    "symbol": "NBT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nubits.png",
+      "small": "https://shapeshift.io/images/coins-sm/nubits.png"
+    }
   },
   "NMC": {
     "name": "Namecoin",
-    "symbol": "NMC"
+    "symbol": "NMC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/namecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/namecoin.png"
+    }
   },
   "NMR": {
     "name": "Numeraire",
-    "symbol": "NMR"
+    "symbol": "NMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/numeraire.png",
+      "small": "https://shapeshift.io/images/coins-sm/numeraire.png"
+    }
   },
   "NVC": {
     "name": "Novacoin",
-    "symbol": "NVC"
+    "symbol": "NVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/novacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/novacoin.png"
+    }
   },
   "NXT": {
     "name": "Nxt",
-    "symbol": "NXT"
+    "symbol": "NXT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nxt.png",
+      "small": "https://shapeshift.io/images/coins-sm/nxt.png"
+    }
   },
   "OMG": {
     "name": "OmiseGo",
-    "symbol": "OMG"
+    "symbol": "OMG",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/omisego.png",
+      "small": "https://shapeshift.io/images/coins-sm/omisego.png"
+    }
   },
   "PAY": {
     "name": "TenX",
-    "symbol": "PAY"
+    "symbol": "PAY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tenx.png",
+      "small": "https://shapeshift.io/images/coins-sm/tenx.png"
+    }
   },
   "POT": {
     "name": "Potcoin",
-    "symbol": "POT"
+    "symbol": "POT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/potcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/potcoin.png"
+    }
   },
   "PPC": {
     "name": "Peercoin",
-    "symbol": "PPC"
+    "symbol": "PPC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/peercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/peercoin.png"
+    }
   },
   "REP": {
     "name": "Augur",
-    "symbol": "REP"
+    "symbol": "REP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/augur.png",
+      "small": "https://shapeshift.io/images/coins-sm/augur.png"
+    }
   },
   "RDD": {
     "name": "Reddcoin",
-    "symbol": "RDD"
+    "symbol": "RDD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/reddcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/reddcoin.png"
+    }
   },
   "RLC": {
     "name": "iExec",
-    "symbol": "RLC"
+    "symbol": "RLC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iexec.png",
+      "small": "https://shapeshift.io/images/coins-sm/iexec.png"
+    }
   },
   "SDC": {
     "name": "Shadowcash",
-    "symbol": "SDC"
+    "symbol": "SDC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/shadowcash.png",
+      "small": "https://shapeshift.io/images/coins-sm/shadowcash.png"
+    }
   },
   "SC": {
     "name": "Siacoin",
-    "symbol": "SC"
+    "symbol": "SC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/siacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/siacoin.png"
+    }
   },
   "SNT": {
     "name": "Status",
-    "symbol": "SNT"
+    "symbol": "SNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/status.png",
+      "small": "https://shapeshift.io/images/coins-sm/status.png"
+    }
   },
   "SJCX": {
     "name": "StorjX",
-    "symbol": "SJCX"
+    "symbol": "SJCX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
+      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
+    }
   },
   "START": {
     "name": "Startcoin",
-    "symbol": "START"
+    "symbol": "START",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/startcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/startcoin.png"
+    }
   },
   "STEEM": {
     "name": "Steem",
-    "symbol": "STEEM"
+    "symbol": "STEEM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/steem.png",
+      "small": "https://shapeshift.io/images/coins-sm/steem.png"
+    }
   },
   "SNGLS": {
     "name": "SingularDTV",
-    "symbol": "SNGLS"
+    "symbol": "SNGLS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/singular.png",
+      "small": "https://shapeshift.io/images/coins-sm/singular.png"
+    }
   },
   "SWT": {
     "name": "Swarm City",
-    "symbol": "SWT"
+    "symbol": "SWT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/swarmcity.png",
+      "small": "https://shapeshift.io/images/coins-sm/swarmcity.png"
+    }
   },
   "TKN": {
     "name": "TokenCard",
-    "symbol": "TKN"
+    "symbol": "TKN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tokencard.png",
+      "small": "https://shapeshift.io/images/coins-sm/tokencard.png"
+    }
   },
   "TRST": {
     "name": "WeTrust",
-    "symbol": "TRST"
+    "symbol": "TRST",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wetrust.png",
+      "small": "https://shapeshift.io/images/coins-sm/wetrust.png"
+    }
   },
   "USDT": {
     "name": "Tether",
-    "symbol": "USDT"
+    "symbol": "USDT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tether.png",
+      "small": "https://shapeshift.io/images/coins-sm/tether.png"
+    }
   },
   "VOX": {
     "name": "Voxels",
-    "symbol": "VOX"
+    "symbol": "VOX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/voxels.png",
+      "small": "https://shapeshift.io/images/coins-sm/voxels.png"
+    }
   },
   "VRC": {
     "name": "Vericoin",
-    "symbol": "VRC"
+    "symbol": "VRC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vericoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vericoin.png"
+    }
   },
   "VTC": {
     "name": "Vertcoin",
-    "symbol": "VTC"
+    "symbol": "VTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vertcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vertcoin.png"
+    }
   },
   "WAVES": {
     "name": "Waves",
-    "symbol": "WAVES"
+    "symbol": "WAVES",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/waves.png",
+      "small": "https://shapeshift.io/images/coins-sm/waves.png"
+    }
   },
   "WINGS": {
     "name": "Wings",
-    "symbol": "WINGS"
+    "symbol": "WINGS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wings.png",
+      "small": "https://shapeshift.io/images/coins-sm/wings.png"
+    }
   },
   "XCP": {
     "name": "Counterparty",
-    "symbol": "XCP"
+    "symbol": "XCP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/counterparty.png",
+      "small": "https://shapeshift.io/images/coins-sm/counterparty.png"
+    }
   },
   "XMR": {
     "name": "Monero",
-    "symbol": "XMR"
+    "symbol": "XMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monero.png",
+      "small": "https://shapeshift.io/images/coins-sm/monero.png"
+    }
   },
   "XRP": {
     "name": "Ripple",
-    "symbol": "XRP"
+    "symbol": "XRP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/ripple.png",
+      "small": "https://shapeshift.io/images/coins-sm/ripple.png"
+    }
   },
   "ZEC": {
     "name": "Zcash",
-    "symbol": "ZEC"
+    "symbol": "ZEC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/zcash.png",
+      "small": "https://shapeshift.io/images/coins-sm/zcash.png"
+    }
   }
 }

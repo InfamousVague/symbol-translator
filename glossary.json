@@ -2,6 +2,10 @@
   "BTC": {
     "name": "Bitcoin",
     "symbol": "BTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
+    },
     "service": {
       "coincap.io": "BTC",
       "coinmarketcap.com": "bitcoin",
@@ -12,6 +16,10 @@
   "ANT": {
     "name": "Aragon",
     "symbol": "ANT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/aragon.png",
+      "small": "https://shapeshift.io/images/coins-sm/aragon.png"
+    },
     "service": {
       "coincap.io": "ANT",
       "coinmarketcap.com": "aragon",
@@ -21,6 +29,10 @@
   "BAT": {
     "name": "Basic Attention Token",
     "symbol": "BAT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/basicattentiontoken.png",
+      "small": "https://shapeshift.io/images/coins-sm/basicattentiontoken.png"
+    },
     "service": {
       "coincap.io": "BAT",
       "coinmarketcap.com": "basic-attention-token",
@@ -30,6 +42,10 @@
   "BNT": {
     "name": "Bancor",
     "symbol": "BNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bancor.png",
+      "small": "https://shapeshift.io/images/coins-sm/bancor.png"
+    },
     "service": {
       "coincap.io": "BNT",
       "coinmarketcap.com": "bancor",
@@ -39,6 +55,10 @@
   "BCY": {
     "name": "BitCrystals",
     "symbol": "BCY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcrystals.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcrystals.png"
+    },
     "service": {
       "coincap.io": "BCY",
       "coinmarketcap.com": "bitcrystals",
@@ -48,6 +68,10 @@
   "BLK": {
     "name": "Blackcoin",
     "symbol": "BLK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/blackcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/blackcoin.png"
+    },
     "service": {
       "coincap.io": "BLK",
       "coinmarketcap.com": "blackcoin",
@@ -57,6 +81,10 @@
   "BTCD": {
     "name": "BitcoinDark",
     "symbol": "BTCD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcoindark.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcoindark.png"
+    },
     "service": {
       "coincap.io": "BTCD",
       "coinmarketcap.com": "bitcoindark",
@@ -66,6 +94,10 @@
   "BTS": {
     "name": "Bitshares",
     "symbol": "BTS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitshares.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitshares.png"
+    },
     "service": {
       "coincap.io": "BTS",
       "coinmarketcap.com": "bitshares",
@@ -75,6 +107,10 @@
   "CVC": {
     "name": "Civic",
     "symbol": "CVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/civic.png",
+      "small": "https://shapeshift.io/images/coins-sm/civic.png"
+    },
     "service": {
       "coincap.io": "CVC",
       "coinmarketcap.com": "civic",
@@ -84,6 +120,10 @@
   "CLAM": {
     "name": "Clams",
     "symbol": "CLAM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/clams.png",
+      "small": "https://shapeshift.io/images/coins-sm/clams.png"
+    },
     "service": {
       "coincap.io": "CLAM",
       "coinmarketcap.com": "clams",
@@ -93,6 +133,10 @@
   "DASH": {
     "name": "Dash",
     "symbol": "DASH",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/dash.png",
+      "small": "https://shapeshift.io/images/coins-sm/dash.png"
+    },
     "service": {
       "coincap.io": "DASH",
       "coinmarketcap.com": "dash",
@@ -103,6 +147,10 @@
   "DCR": {
     "name": "Decred",
     "symbol": "DCR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/decred.png",
+      "small": "https://shapeshift.io/images/coins-sm/decred.png"
+    },
     "service": {
       "coincap.io": "DCR",
       "coinmarketcap.com": "decred",
@@ -112,6 +160,10 @@
   "DGB": {
     "name": "Digibyte",
     "symbol": "DGB",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digibyte.png",
+      "small": "https://shapeshift.io/images/coins-sm/digibyte.png"
+    },
     "service": {
       "coincap.io": "DGB",
       "coinmarketcap.com": "digibyte",
@@ -122,6 +174,10 @@
   "DGD": {
     "name": "DigixDao",
     "symbol": "DGD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digixdao.png",
+      "small": "https://shapeshift.io/images/coins-sm/digixdao.png"
+    },
     "service": {
       "coincap.io": "DGD",
       "coinmarketcap.com": "digixdao",
@@ -131,6 +187,10 @@
   "DOGE": {
     "name": "Dogecoin",
     "symbol": "DOGE",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/dogecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/dogecoin.png"
+    },
     "service": {
       "coincap.io": "DOGE",
       "coinmarketcap.com": "dogecoin",
@@ -140,6 +200,10 @@
   "EMC": {
     "name": "Emercoin",
     "symbol": "EMC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/emercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/emercoin.png"
+    },
     "service": {
       "coincap.io": "EMC",
       "coinmarketcap.com": "emercoin",
@@ -149,6 +213,10 @@
   "EDG": {
     "name": "Edgeless",
     "symbol": "EDG",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/edgeless.png",
+      "small": "https://shapeshift.io/images/coins-sm/edgeless.png"
+    },
     "service": {
       "coincap.io": "EDG",
       "coinmarketcap.com": "edgeless",
@@ -158,6 +226,10 @@
   "EOS": {
     "name": "EOS",
     "symbol": "EOS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/eos.png",
+      "small": "https://shapeshift.io/images/coins-sm/eos.jpeg"
+    },
     "service": {
       "coincap.io": "EOS",
       "coinmarketcap.com": "eos",
@@ -168,6 +240,10 @@
   "ETH": {
     "name": "Ether",
     "symbol": "ETH",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/ether.png",
+      "small": "https://shapeshift.io/images/coins-sm/ether.png"
+    },
     "service": {
       "coincap.io": "ETH",
       "coinmarketcap.com": "ethereum",
@@ -178,6 +254,10 @@
   "ETC": {
     "name": "Ether Classic",
     "symbol": "ETC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/etherclassic.png",
+      "small": "https://shapeshift.io/images/coins-sm/etherclassic.png"
+    },
     "service": {
       "coincap.io": "ETC",
       "coinmarketcap.com": "ethereum-classic",
@@ -188,6 +268,10 @@
   "FCT": {
     "name": "Factoids",
     "symbol": "FCT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/factoids.png",
+      "small": "https://shapeshift.io/images/coins-sm/factoids.png"
+    },
     "service": {
       "coincap.io": "FCT",
       "coinmarketcap.com": "factom",
@@ -197,6 +281,10 @@
   "FUN": {
     "name": "FunFair",
     "symbol": "FUN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/funfair.png",
+      "small": "https://shapeshift.io/images/coins-sm/funfair.png"
+    },
     "service": {
       "coincap.io": "FUN",
       "coinmarketcap.com": "funfair",
@@ -206,6 +294,10 @@
   "GAME": {
     "name": "GameCredits",
     "symbol": "GAME",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/game.png",
+      "small": "https://shapeshift.io/images/coins-sm/game.png"
+    },
     "service": {
       "coincap.io": "GAME",
       "coinmarketcap.com": "gamecredits",
@@ -215,6 +307,10 @@
   "GNO": {
     "name": "Gnosis",
     "symbol": "GNO",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/gnosis.png",
+      "small": "https://shapeshift.io/images/coins-sm/gnosis.png"
+    },
     "service": {
       "coincap.io": "GNO",
       "coinmarketcap.com": "gnosis-gno",
@@ -225,6 +321,10 @@
   "GNT": {
     "name": "Golem",
     "symbol": "GNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/golem.png",
+      "small": "https://shapeshift.io/images/coins-sm/golem.png"
+    },
     "service": {
       "coincap.io": "GNT",
       "coinmarketcap.com": "golem-network-tokens",
@@ -234,6 +334,10 @@
   "GUP": {
     "name": "Matchpool",
     "symbol": "GUP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/matchpool.png",
+      "small": "https://shapeshift.io/images/coins-sm/matchpool.png"
+    },
     "service": {
       "coincap.io": "GUP",
       "coinmarketcap.com": "guppy",
@@ -243,6 +347,10 @@
   "ICN": {
     "name": "Iconomi",
     "symbol": "ICN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iconomi.png",
+      "small": "https://shapeshift.io/images/coins-sm/iconomi.png"
+    },
     "service": {
       "coincap.io": "ICN",
       "coinmarketcap.com": "iconomi",
@@ -253,6 +361,10 @@
   "KMD": {
     "name": "Komodo",
     "symbol": "KMD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/komodo.png",
+      "small": "https://shapeshift.io/images/coins-sm/komodo.png"
+    },
     "service": {
       "coincap.io": "KMD",
       "coinmarketcap.com": "komodo",
@@ -262,6 +374,10 @@
   "LBC": {
     "name": "LBRY Credits",
     "symbol": "LBC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lbry.png",
+      "small": "https://shapeshift.io/images/coins-sm/lbry.png"
+    },
     "service": {
       "coincap.io": "LBC",
       "coinmarketcap.com": "library-credi",
@@ -271,6 +387,10 @@
   "LSK": {
     "name": "Lisk",
     "symbol": "LSK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lisk.png",
+      "small": "https://shapeshift.io/images/coins-sm/lisk.png"
+    },
     "service": {
       "coincap.io": "LSK",
       "coinmarketcap.com": "lisk",
@@ -280,6 +400,10 @@
   "LTC": {
     "name": "Litecoin",
     "symbol": "LTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/litecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/litecoin.png"
+    },
     "service": {
       "coincap.io": "LTC",
       "coinmarketcap.com": "litecoin",
@@ -290,6 +414,10 @@
   "MAID": {
     "name": "Maidsafe",
     "symbol": "MAID",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/maidsafe.png",
+      "small": "https://shapeshift.io/images/coins-sm/maidsafe.png"
+    },
     "service": {
       "coincap.io": "MAID",
       "coinmarketcap.com": "maidsafecoin",
@@ -299,6 +427,10 @@
   "MLN": {
     "name": "Melon",
     "symbol": "MLN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/melon.png",
+      "small": "https://shapeshift.io/images/coins-sm/melon.png"
+    },
     "service": {
       "coincap.io": "MLN",
       "coinmarketcap.com": "melon",
@@ -309,6 +441,10 @@
   "MTL": {
     "name": "Metal",
     "symbol": "MTL",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/metal.png",
+      "small": "https://shapeshift.io/images/coins-sm/metal.png"
+    },
     "service": {
       "coincap.io": "MTL",
       "coinmarketcap.com": "metal",
@@ -318,6 +454,10 @@
   "MONA": {
     "name": "Monacoin",
     "symbol": "MONA",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/monacoin.png"
+    },
     "service": {
       "coincap.io": "MONA",
       "coinmarketcap.com": "monacoin",
@@ -327,6 +467,10 @@
   "MSC": {
     "name": "Omni",
     "symbol": "MSC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/mastercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/mastercoin.png"
+    },
     "service": {
       "coincap.io": "MSC",
       "coinmarketcap.com": "omni",
@@ -336,6 +480,10 @@
   "NBT": {
     "name": "Nubits",
     "symbol": "NBT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nubits.png",
+      "small": "https://shapeshift.io/images/coins-sm/nubits.png"
+    },
     "service": {
       "coincap.io": "NBT",
       "coinmarketcap.com": "nubits",
@@ -345,6 +493,10 @@
   "NMC": {
     "name": "Namecoin",
     "symbol": "NMC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/namecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/namecoin.png"
+    },
     "service": {
       "coincap.io": "NMC",
       "coinmarketcap.com": "namecoin",
@@ -355,6 +507,10 @@
   "NMR": {
     "name": "Numeraire",
     "symbol": "NMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/numeraire.png",
+      "small": "https://shapeshift.io/images/coins-sm/numeraire.png"
+    },
     "service": {
       "coincap.io": "NMR",
       "coinmarketcap.com": "numeraire",
@@ -364,6 +520,10 @@
   "NVC": {
     "name": "Novacoin",
     "symbol": "NVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/novacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/novacoin.png"
+    },
     "service": {
       "coincap.io": "NVC",
       "coinmarketcap.com": "novacoin",
@@ -373,6 +533,10 @@
   "NXT": {
     "name": "Nxt",
     "symbol": "NXT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nxt.png",
+      "small": "https://shapeshift.io/images/coins-sm/nxt.png"
+    },
     "service": {
       "coincap.io": "NXT",
       "coinmarketcap.com": "nxt",
@@ -382,6 +546,10 @@
   "OMG": {
     "name": "OmiseGo",
     "symbol": "OMG",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/omisego.png",
+      "small": "https://shapeshift.io/images/coins-sm/omisego.png"
+    },
     "service": {
       "coincap.io": "OMG",
       "coinmarketcap.com": "omisego",
@@ -391,6 +559,10 @@
   "PAY": {
     "name": "TenX",
     "symbol": "PAY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tenx.png",
+      "small": "https://shapeshift.io/images/coins-sm/tenx.png"
+    },
     "service": {
       "coincap.io": "PAY",
       "coinmarketcap.com": "tenx",
@@ -400,6 +572,10 @@
   "POT": {
     "name": "Potcoin",
     "symbol": "POT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/potcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/potcoin.png"
+    },
     "service": {
       "coincap.io": "POT",
       "coinmarketcap.com": "potcoin",
@@ -409,6 +585,10 @@
   "PPC": {
     "name": "Peercoin",
     "symbol": "PPC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/peercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/peercoin.png"
+    },
     "service": {
       "coincap.io": "PPC",
       "coinmarketcap.com": "peercoin",
@@ -418,6 +598,10 @@
   "REP": {
     "name": "Augur",
     "symbol": "REP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/augur.png",
+      "small": "https://shapeshift.io/images/coins-sm/augur.png"
+    },
     "service": {
       "coincap.io": "REP",
       "coinmarketcap.com": "augur",
@@ -428,6 +612,10 @@
   "RDD": {
     "name": "Reddcoin",
     "symbol": "RDD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/reddcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/reddcoin.png"
+    },
     "service": {
       "coincap.io": "RDD",
       "coinmarketcap.com": "reddcoin",
@@ -437,6 +625,10 @@
   "RLC": {
     "name": "iExec",
     "symbol": "RLC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iexec.png",
+      "small": "https://shapeshift.io/images/coins-sm/iexec.png"
+    },
     "service": {
       "coincap.io": "RLC",
       "coinmarketcap.com": "rlc",
@@ -446,6 +638,10 @@
   "SDC": {
     "name": "Shadowcash",
     "symbol": "SDC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/shadowcash.png",
+      "small": "https://shapeshift.io/images/coins-sm/shadowcash.png"
+    },
     "service": {
       "coincap.io": "SDC",
       "coinmarketcap.com": "shadowcash",
@@ -455,6 +651,10 @@
   "SC": {
     "name": "Siacoin",
     "symbol": "SC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/siacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/siacoin.png"
+    },
     "service": {
       "coincap.io": "SC",
       "coinmarketcap.com": "siacoin",
@@ -464,6 +664,10 @@
   "SNT": {
     "name": "Status",
     "symbol": "SNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/status.png",
+      "small": "https://shapeshift.io/images/coins-sm/status.png"
+    },
     "service": {
       "coincap.io": "SNT",
       "coinmarketcap.com": "status",
@@ -473,6 +677,10 @@
   "SJCX": {
     "name": "StorjX",
     "symbol": "SJCX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
+      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
+    },
     "service": {
       "coincap.io": "SJCX",
       "coinmarketcap.com": "storjcoin-x",
@@ -482,6 +690,10 @@
   "START": {
     "name": "Startcoin",
     "symbol": "START",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/startcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/startcoin.png"
+    },
     "service": {
       "coincap.io": "START",
       "coinmarketcap.com": "startcoin",
@@ -491,6 +703,10 @@
   "STEEM": {
     "name": "Steem",
     "symbol": "STEEM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/steem.png",
+      "small": "https://shapeshift.io/images/coins-sm/steem.png"
+    },
     "service": {
       "coincap.io": "STEEM",
       "coinmarketcap.com": "steem",
@@ -500,6 +716,10 @@
   "SNGLS": {
     "name": "SingularDTV",
     "symbol": "SNGLS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/singular.png",
+      "small": "https://shapeshift.io/images/coins-sm/singular.png"
+    },
     "service": {
       "coincap.io": "SNGLS",
       "coinmarketcap.com": "singulardtv",
@@ -509,6 +729,10 @@
   "SWT": {
     "name": "Swarm City",
     "symbol": "SWT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/swarmcity.png",
+      "small": "https://shapeshift.io/images/coins-sm/swarmcity.png"
+    },
     "service": {
       "coincap.io": "SWT",
       "coinmarketcap.com": "swarm-city",
@@ -518,6 +742,10 @@
   "TKN": {
     "name": "TokenCard",
     "symbol": "TKN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tokencard.png",
+      "small": "https://shapeshift.io/images/coins-sm/tokencard.png"
+    },
     "service": {
       "coincap.io": "TKN",
       "coinmarketcap.com": "tokencard",
@@ -527,6 +755,10 @@
   "TRST": {
     "name": "WeTrust",
     "symbol": "TRST",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wetrust.png",
+      "small": "https://shapeshift.io/images/coins-sm/wetrust.png"
+    },
     "service": {
       "coincap.io": "TRST",
       "coinmarketcap.com": "trust",
@@ -536,6 +768,10 @@
   "USDT": {
     "name": "Tether",
     "symbol": "USDT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tether.png",
+      "small": "https://shapeshift.io/images/coins-sm/tether.png"
+    },
     "service": {
       "coincap.io": "USDT",
       "coinmarketcap.com": "tether",
@@ -546,6 +782,10 @@
   "VOX": {
     "name": "Voxels",
     "symbol": "VOX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/voxels.png",
+      "small": "https://shapeshift.io/images/coins-sm/voxels.png"
+    },
     "service": {
       "coincap.io": "VOX",
       "coinmarketcap.com": "voxels",
@@ -555,6 +795,10 @@
   "VRC": {
     "name": "Vericoin",
     "symbol": "VRC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vericoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vericoin.png"
+    },
     "service": {
       "coincap.io": "VRC",
       "coinmarketcap.com": "vericoin",
@@ -564,6 +808,10 @@
   "VTC": {
     "name": "Vertcoin",
     "symbol": "VTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vertcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vertcoin.png"
+    },
     "service": {
       "coincap.io": "VTC",
       "coinmarketcap.com": "vertcoin",
@@ -573,6 +821,10 @@
   "WAVES": {
     "name": "Waves",
     "symbol": "WAVES",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/waves.png",
+      "small": "https://shapeshift.io/images/coins-sm/waves.png"
+    },
     "service": {
       "coincap.io": "WAVES",
       "coinmarketcap.com": "waves",
@@ -582,6 +834,10 @@
   "WINGS": {
     "name": "Wings",
     "symbol": "WINGS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wings.png",
+      "small": "https://shapeshift.io/images/coins-sm/wings.png"
+    },
     "service": {
       "coincap.io": "WINGS",
       "coinmarketcap.com": "wings",
@@ -591,6 +847,10 @@
   "XCP": {
     "name": "Counterparty",
     "symbol": "XCP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/counterparty.png",
+      "small": "https://shapeshift.io/images/coins-sm/counterparty.png"
+    },
     "service": {
       "coincap.io": "XCP",
       "coinmarketcap.com": "counterparty",
@@ -600,6 +860,10 @@
   "XMR": {
     "name": "Monero",
     "symbol": "XMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monero.png",
+      "small": "https://shapeshift.io/images/coins-sm/monero.png"
+    },
     "service": {
       "coincap.io": "XMP",
       "coinmarketcap.com": "monero",
@@ -610,6 +874,10 @@
   "XRP": {
     "name": "Ripple",
     "symbol": "XRP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/ripple.png",
+      "small": "https://shapeshift.io/images/coins-sm/ripple.png"
+    },
     "service": {
       "coincap.io": "XRP",
       "coinmarketcap.com": "ripple",
@@ -620,6 +888,10 @@
   "ZEC": {
     "name": "Zcash",
     "symbol": "ZEC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/zcash.png",
+      "small": "https://shapeshift.io/images/coins-sm/zcash.png"
+    },
     "service": {
       "coincap.io": "ZEC",
       "coinmarketcap.com": "zcash",
