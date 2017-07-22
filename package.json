@@ -1,6 +1,6 @@
 {
   "name": "crypto-normalize",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Apparently nobody can agree on crypto naming conventions, this package aggregates popular exchanges and sites and allows you to easily translate from our spec to other parties conventions.",
   "main": "index.js",
   "scripts": {

@@ -9,6 +9,7 @@
     "service": {
       "coincap.io": "BTC",
       "coinmarketcap.com": "bitcoin",
+      "gdax.com": "BTC",
       "kraken.com": "XXBT",
       "shapeshift.io": "BTC"
     }
@@ -247,6 +248,7 @@
     "service": {
       "coincap.io": "ETH",
       "coinmarketcap.com": "ethereum",
+      "gdax.com": "ETH",
       "kraken.com": "XETH",
       "shapeshift.io": "ETH"
     }
@@ -407,6 +409,7 @@
     "service": {
       "coincap.io": "LTC",
       "coinmarketcap.com": "litecoin",
+      "gdax.com": "LTC",
       "kraken.com": "XLTC",
       "shapeshift.io": "LTC"
     }
