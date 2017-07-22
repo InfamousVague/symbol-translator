@@ -24,4 +24,19 @@ normalize.pair("ETH", "BTC", "kraken.com") // XETHXXBT
 // Check for support
 normalize.doesSupport("FCT", "kraken.com") // false
 normalize.doesSupport("ETH", "kraken.com") // true
+
+// Get coin from glossary
+normalize.coin("ZEC")
+/*
+{ name: 'Zcash',
+symbol: 'ZEC',
+images:
+  { large: 'https://shapeshift.io/images/coins/zcash.png',
+    small: 'https://shapeshift.io/images/coins-sm/zcash.png' },
+service:
+  { 'coincap.io': 'ZEC',
+    'coinmarketcap.com': 'zcash',
+    'kraken.com': 'XZEC',
+    'shapeshift.io': 'ZEC' } }
+*/
 ```
