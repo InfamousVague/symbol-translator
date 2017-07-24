@@ -1,0 +1,189 @@
+FORMAT: 1A
+
+# symbol.wiki API
+Symbol wiki allows you to look up symbols and pairs by exchanges or services so you don't have to manage large translation files on your bots and services.
+
+#### Contributions are highly appriciated
+
+#### Donations to support keeping our servers on are welcome at: 
+`0x0000000`
+
+## Glossary [/v1/]
+Get a list of all coins symbol.wiki supports with all metadata
+
+### Retreive coins [GET]
+
++ Response 200 (apllication/json)
+
+    + Body
+
+            {
+                "BTC": {
+                "name": "Bitcoin",
+                "symbol": "BTC",
+                "images": {
+                    "large": "https://shapeshift.io/images/coins/bitcoin.png",
+                    "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
+                },
+                "service": {
+                    "bittrex.com": "BTC",
+                    "coincap.io": "BTC",
+                    "coinmarketcap.com": "bitcoin",
+                    "gdax.com": "BTC",
+                    "kraken.com": "XXBT",
+                    "shapeshift.io": "BTC"
+                }
+                },
+                "ANT": {
+                    "name": "Aragon",
+                    "symbol": "ANT",
+                    "images": {
+                        "large": "https://shapeshift.io/images/coins/aragon.png",
+                        "small": "https://shapeshift.io/images/coins-sm/aragon.png"
+                    },
+                    "service": {
+                        "bittrex.com": "ANT",
+                        "coincap.io": "ANT",
+                        "coinmarketcap.com": "aragon",
+                        "shapeshift.io": "ANT"
+                    }
+                }
+            }
+
+## Coins [/v1/coins]
+Get a list of all coins symbol.wiki supports
+
+### Retreive coins [GET]
+
++ Response 200 (apllication/json)
+
+    + Body
+
+            [
+                "BTC",
+                "ETH",
+                "LTC",
+                "..."
+            ]
+
+## Coin Metadata [/v1/coin/{symbol}]
+Get a specific coin from the glossary
+
++ Parameters
+
+    + symbol: 1 (string) - The symbol of the coin from our glossary (e.g. BTC)
+
+### Retrieve a Coin [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "name": "Bitcoin",
+                "symbol": "BTC",
+                "images": {
+                    "large": "https://shapeshift.io/images/coins/bitcoin.png",
+                    "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
+                },
+                "service": {
+                    "bittrex.com": "BTC",
+                    "coincap.io": "BTC",
+                    "coinmarketcap.com": "bitcoin",
+                    "gdax.com": "BTC",
+                    "kraken.com": "XXBT",
+                    "shapeshift.io": "BTC"
+                }
+            }
+
+## Translate Coin Symbol [/v1/translate/{symbol}/{service}]
+Translate from our glossarys supported symbol to the symbol a service uses
+
++ Parameters
+
+    + symbol: 1 (string) - The symbol of the coin from our glossary (e.g. BTC)
+
+    + service: 2 (string) - The URL of the service to translate to (e.g. kraken.com)
+
+### Translate a symbol [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "service": "kraken.com",
+                "symbol": "XXBT"
+            }
+
+## Translate Coin Pair [/v1/translate/{base}/{target}/{service}]
+Translate from our glossarys supported symbol to the symbol pair a service uses
+
++ Parameters
+
+    + base: 1 (string) - The symbol of the base coin from our glossary (e.g. BTC)
+
+    + target: 2 (string) - The symbol of the target coin from our glossary (e.g. ETH)
+
+    + service: 2 (string) - The URL of the service to translate to (e.g. kraken.com)
+
+### Translate a symbol pair [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "service": "kraken.com",
+                "pair": "XXBTXETH"
+            }
+
+## Check [/v1/check/{symbol}/{service}]
+Check if a service supports a coin from our glossary
+
++ Parameters
+
+    + symbol: 1 (string) - The symbol of the coin from our glossary (e.g. BTC)
+
+    + service: 2 (string) - The URL of the service to translate to (e.g. kraken.com)
+
+### Check for goin support [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "service": "kraken.com",
+                "coin": "btc",
+                "supported": true
+            }
+
+## Services [/v1/services]
+Get a list of services we support
+
+### Retreive services list [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            [
+                "bittrex.com",
+                "coincap.io",
+                "coinmarketcap.com",
+                "gdax.com",
+                "kraken.com",
+                "shapeshift.io"
+            ]
+

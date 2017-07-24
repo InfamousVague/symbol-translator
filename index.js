@@ -24,14 +24,19 @@ module.exports = {
     base = glossary[base].service[service]
     target = glossary[target].service[service]
     delimiter = delimiters[service] || ''
+
     return `${base}${delimiter}${target}`
   },
 
   doesSupport: (coin, service) => {
-    return (glossary[coin].service[service]) ? true : false
+    return (glossary[coin] && glossary[coin].service[service]) ? true : false
   },
 
   coin: coin => {
     return (glossary[coin])
+  },
+
+  services: () => {
+    return Object.keys(glossary['BTC'].service)
   }
 }
