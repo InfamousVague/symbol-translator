@@ -3,12 +3,12 @@ Apparently nobody can agree on crypto naming conventions, this package aggregate
 
 
 # usage 
-###Install me
+### Install me
 ```
 npm i --save crypto-normalize
 ```
 
-###Use me
+### Use me
 ```js
 const normalize = require('crypto-normalize')
 
