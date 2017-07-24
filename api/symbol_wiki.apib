@@ -3,6 +3,53 @@ FORMAT: 1A
 # symbol.wiki API
 Symbol wiki allows you to look up symbols and pairs by exchanges or services so you don't have to manage large translation files on your bots and services.
 
+## Usage 
+Symbol.wiki wraps the node module `crypto-normalize` and can be used directly as an API, or used via the node module. To use the node module simply install.
+
+```
+npm i --save crypto-normalize
+```
+
+Then you're ready to use the normalizer locally
+
+```js
+const normalize = require('crypto-normalize')
+
+// Translate symbol
+normalize.translate("ETH", "kraken.com") // XETH
+
+// Get image of coin
+normalize.image("ETH") // https://shapeshift.io/images/coins/ether.png
+
+// Get all image sizes of coin
+normalize.images("ETH") // { large: 'https://shapeshift.io/images/coins/ether.png', small: 'https://shapeshift.io/images/coins-sm/ether.png' }
+
+// Small image of coin
+normalize.imageSmall("ETH") // https://shapeshift.io/images/coins/ether.png
+
+// Translate pair
+normalize.pair("ETH", "BTC", "kraken.com") // XETHXXBT
+
+// Check for support
+normalize.doesSupport("FCT", "kraken.com") // false
+normalize.doesSupport("ETH", "kraken.com") // true
+
+// Get coin from glossary
+normalize.coin("ZEC")
+/*
+{ name: 'Zcash',
+symbol: 'ZEC',
+images:
+  { large: 'https://shapeshift.io/images/coins/zcash.png',
+    small: 'https://shapeshift.io/images/coins-sm/zcash.png' },
+service:
+  { 'coincap.io': 'ZEC',
+    'coinmarketcap.com': 'zcash',
+    'kraken.com': 'XZEC',
+    'shapeshift.io': 'ZEC' } }
+*/
+```
+
 #### Contributions are highly appriciated
 [Contribute](https://github.com/wski/symbol-translator)
 
