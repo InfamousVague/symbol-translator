@@ -1,4 +1,4 @@
-const coins = require('../dist/glossary.json')
+const coins = require('../dist/coins.json')
 const coinExtras = require('../internal/coinExtras.json')
 
 const walk = require('walk')
@@ -7,25 +7,23 @@ const walker = walk.walk('../dictionaries')
 
 let glossary = Object.assign({}, coins)
 
-walker.on('file', (root, fileStats, next) => {
-  const dictionary = require(`../dictionaries/${fileStats.name}`)
-  const tempGlossary = Object.assign({}, glossary)
-  
-  Object.keys(dictionary).map((coin, i) => {
-    if (glossary[coin] && coinExtras[coin]) {
-      glossary[coin] = Object.assign(
-        {},
-        glossary[coin],
-        {
-          name: coinExtras[coin].name,
-          images: coinExtras[coin].images
-        }
-      )
-    }
-    next()
-  })
-})
+Object.keys(coins).map((coin, i) => {
+  if (coinExtras[coin]) {
+    console.log(coin, 'is in extras')
+    glossary[coin] = Object.assign(
+      {},
+      glossary[coin],
+      {
+        name: coinExtras[coin].name,
+        images: coinExtras[coin].images
+      }
+    )
+  } else {
+    glossary[coin] = coins[coin]
+    console.log(coin, 'is not in extras')
+  }
 
-walker.on("end", function () {
-  fs.writeFile('glossary.json', JSON.stringify(glossary, null, 2))
+  if (i >= Object.keys(coins).length - 1) {
+    fs.writeFile('dist/glossary.json', JSON.stringify(glossary, null, 2))
+  }
 })

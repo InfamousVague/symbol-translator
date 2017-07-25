@@ -5,567 +5,6 @@
     "images": {
       "large": "https://shapeshift.io/images/coins/bitcoin.png",
       "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
-    },
-    "service": {
-      "bitfinex.com": "BTC",
-      "bithumb.com": "BTC",
-      "bitmex.com": "XBT",
-      "bitstamp.net": "BTC",
-      "bittrex.com": "BTC",
-      "btc-e.com": "BTC",
-      "chbtc.com": "BTC",
-      "coincap.io": "BTC",
-      "coinmarketcap.com": "bitcoin",
-      "coinone.co.kr": "BTC",
-      "gdax.com": "BTC",
-      "gemini.com": "BTC",
-      "huobi.com": "BTC",
-      "korbit.co.kr": "BTC",
-      "kraken.com": "XXBT",
-      "okcoin.com": "BTC",
-      "shapeshift.io": "BTC",
-      "yunbi.com": "BTC"
-    }
-  },
-  "ANT": {
-    "name": "Aragon",
-    "symbol": "ANT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/aragon.png",
-      "small": "https://shapeshift.io/images/coins-sm/aragon.png"
-    },
-    "service": {
-      "bittrex.com": "ANT",
-      "coincap.io": "ANT",
-      "coinmarketcap.com": "aragon",
-      "shapeshift.io": "ANT",
-      "yunbi.com": "ANS"
-    }
-  },
-  "BAT": {
-    "name": "Basic Attention Token",
-    "symbol": "BAT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/basicattentiontoken.png",
-      "small": "https://shapeshift.io/images/coins-sm/basicattentiontoken.png"
-    },
-    "service": {
-      "bittrex.com": "BAT",
-      "coincap.io": "BAT",
-      "coinmarketcap.com": "basic-attention-token",
-      "shapeshift.io": "BAT"
-    }
-  },
-  "BNT": {
-    "name": "Bancor",
-    "symbol": "BNT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/bancor.png",
-      "small": "https://shapeshift.io/images/coins-sm/bancor.png"
-    },
-    "service": {
-      "bittrex.com": "BNT",
-      "coincap.io": "BNT",
-      "coinmarketcap.com": "bancor",
-      "shapeshift.io": "BNT"
-    }
-  },
-  "BCY": {
-    "name": "BitCrystals",
-    "symbol": "BCY",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/bitcrystals.png",
-      "small": "https://shapeshift.io/images/coins-sm/bitcrystals.png"
-    },
-    "service": {
-      "bittrex.com": "BCY",
-      "coincap.io": "BCY",
-      "coinmarketcap.com": "bitcrystals",
-      "shapeshift.io": "BCY"
-    }
-  },
-  "BLK": {
-    "name": "Blackcoin",
-    "symbol": "BLK",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/blackcoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/blackcoin.png"
-    },
-    "service": {
-      "bittrex.com": "BLK",
-      "coincap.io": "BLK",
-      "coinmarketcap.com": "blackcoin",
-      "shapeshift.io": "BLK"
-    }
-  },
-  "BTCD": {
-    "name": "BitcoinDark",
-    "symbol": "BTCD",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/bitcoindark.png",
-      "small": "https://shapeshift.io/images/coins-sm/bitcoindark.png"
-    },
-    "service": {
-      "bittrex.com": "BTCD",
-      "coincap.io": "BTCD",
-      "coinmarketcap.com": "bitcoindark",
-      "shapeshift.io": "BTCD"
-    }
-  },
-  "BTS": {
-    "name": "Bitshares",
-    "symbol": "BTS",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/bitshares.png",
-      "small": "https://shapeshift.io/images/coins-sm/bitshares.png"
-    },
-    "service": {
-      "bittrex.com": "BTS",
-      "chbtc.com": "BTS",
-      "coincap.io": "BTS",
-      "coinmarketcap.com": "bitshares",
-      "shapeshift.io": "BTS",
-      "yunbi.com": "BTS"
-    }
-  },
-  "CVC": {
-    "name": "Civic",
-    "symbol": "CVC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/civic.png",
-      "small": "https://shapeshift.io/images/coins-sm/civic.png"
-    },
-    "service": {
-      "bittrex.com": "CVC",
-      "coincap.io": "CVC",
-      "coinmarketcap.com": "civic",
-      "shapeshift.io": "CVC"
-    }
-  },
-  "CLAM": {
-    "name": "Clams",
-    "symbol": "CLAM",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/clams.png",
-      "small": "https://shapeshift.io/images/coins-sm/clams.png"
-    },
-    "service": {
-      "bittrex.com": "CLAM",
-      "coincap.io": "CLAM",
-      "coinmarketcap.com": "clams",
-      "shapeshift.io": "CLAM"
-    }
-  },
-  "DASH": {
-    "name": "Dash",
-    "symbol": "DASH",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/dash.png",
-      "small": "https://shapeshift.io/images/coins-sm/dash.png"
-    },
-    "service": {
-      "bitfinex.com": "DASH",
-      "bithumb.com": "DASH",
-      "bitmex.com": "DASH",
-      "bittrex.com": "DASH",
-      "btc-e.com": "DSH",
-      "coincap.io": "DASH",
-      "coinmarketcap.com": "dash",
-      "kraken.com": "DASH",
-      "shapeshift.io": "DASH"
-    }
-  },
-  "DCR": {
-    "name": "Decred",
-    "symbol": "DCR",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/decred.png",
-      "small": "https://shapeshift.io/images/coins-sm/decred.png"
-    },
-    "service": {
-      "bittrex.com": "DCR",
-      "coincap.io": "DCR",
-      "coinmarketcap.com": "decred",
-      "shapeshift.io": "DCR"
-    }
-  },
-  "DGB": {
-    "name": "Digibyte",
-    "symbol": "DGB",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/digibyte.png",
-      "small": "https://shapeshift.io/images/coins-sm/digibyte.png"
-    },
-    "service": {
-      "bittrex.com": "DGB",
-      "coincap.io": "DGB",
-      "coinmarketcap.com": "digibyte",
-      "kraken.com": "XXDG",
-      "shapeshift.io": "DGB"
-    }
-  },
-  "DGD": {
-    "name": "DigixDao",
-    "symbol": "DGD",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/digixdao.png",
-      "small": "https://shapeshift.io/images/coins-sm/digixdao.png"
-    },
-    "service": {
-      "bittrex.com": "DGD",
-      "coincap.io": "DGD",
-      "coinmarketcap.com": "digixdao",
-      "shapeshift.io": "DGD",
-      "yunbi.com": "DGD"
-    }
-  },
-  "DOGE": {
-    "name": "Dogecoin",
-    "symbol": "DOGE",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/dogecoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/dogecoin.png"
-    },
-    "service": {
-      "bittrex.com": "DOGE",
-      "coincap.io": "DOGE",
-      "coinmarketcap.com": "dogecoin",
-      "shapeshift.io": "DOGE"
-    }
-  },
-  "EMC": {
-    "name": "Einsteinium",
-    "symbol": "EMC2",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bittrex.com": "EMC",
-      "coincap.io": "EMC",
-      "coinmarketcap.com": "emercoin",
-      "shapeshift.io": "EMC"
-    }
-  },
-  "BCU": {
-    "name": "Bitcoin Unlimited",
-    "symbol": "BCU",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitfinex.com": "BCU"
-    }
-  },
-  "BTU": {
-    "name": "Bitcoin Unlimited",
-    "symbol": "BTU",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitmex.com": "XBTU"
-    }
-  },
-  "QTUM": {
-    "name": "Qtum",
-    "symbol": "QTUM",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitmex.com": "QTUM",
-      "bittrex.com": "QTUM",
-      "yunbi.com": "QTUM"
-    }
-  },
-  "FTC": {
-    "name": "Feathercoin",
-    "symbol": "FTC",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bittrex.com": "FTC"
-    }
-  },
-  "IOTA": {
-    "name": "IOTA",
-    "symbol": "IOTA",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitfinex.com": "IOTA"
-    }
-  },
-  "USD": {
-    "name": "USD",
-    "symbol": "US Dollar",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitmex.com": "USD",
-      "bitstamp.net": "USD",
-      "btc-e.com": "USD",
-      "gdax.com": "USD",
-      "gemini.com": "USD",
-      "kraken.com": "ZUSD"
-    }
-  },
-  "EUR": {
-    "name": "EUR",
-    "symbol": "Euro",
-    "images": {
-      "large": false,
-      "small": false
-    },
-    "service": {
-      "bitstamp.net": "EUR",
-      "btc-e.com": "EUR"
-    }
-  },
-  "EMC2": {
-    "name": "Emercoin",
-    "symbol": "EMC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/emercoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/emercoin.png"
-    },
-    "service": {
-      "bittrex.com": "EMC2"
-    }
-  },
-  "EDG": {
-    "name": "Edgeless",
-    "symbol": "EDG",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/edgeless.png",
-      "small": "https://shapeshift.io/images/coins-sm/edgeless.png"
-    },
-    "service": {
-      "bittrex.com": "EDG",
-      "coincap.io": "EDG",
-      "coinmarketcap.com": "edgeless",
-      "shapeshift.io": "EDG"
-    }
-  },
-  "EOS": {
-    "name": "EOS",
-    "symbol": "EOS",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/eos.png",
-      "small": "https://shapeshift.io/images/coins-sm/eos.jpeg"
-    },
-    "service": {
-      "bitfinex.com": "EOS",
-      "bitmex.com": "EOS",
-      "chbtc.com": "EOS",
-      "coincap.io": "EOS",
-      "coinmarketcap.com": "eos",
-      "kraken.com": "EOS",
-      "shapeshift.io": "EOS",
-      "yunbi.com": "EOS"
-    }
-  },
-  "ETH": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/ether.png",
-      "small": "https://shapeshift.io/images/coins-sm/ether.png"
-    },
-    "service": {
-      "bitfinex.com": "ETH",
-      "bithumb.com": "ETH",
-      "bitmex.com": "ETH",
-      "bittrex.com": "ETH",
-      "btc-e.com": "ETH",
-      "chbtc.com": "ETH",
-      "coincap.io": "ETH",
-      "coinmarketcap.com": "ethereum",
-      "coinone.co.kr": "ETH",
-      "gdax.com": "ETH",
-      "gemini.com": "ETH",
-      "huobi.com": "ETH",
-      "korbit.co.kr": "ETH",
-      "kraken.com": "XETH",
-      "okcoin.com": "ETH",
-      "shapeshift.io": "ETH",
-      "yunbi.com": "ETH"
-    }
-  },
-  "ETC": {
-    "name": "Ether Classic",
-    "symbol": "ETC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/etherclassic.png",
-      "small": "https://shapeshift.io/images/coins-sm/etherclassic.png"
-    },
-    "service": {
-      "bitfinex.com": "ETC",
-      "bithumb.com": "ETC",
-      "bitmex.com": "ETC",
-      "bittrex.com": "ETC",
-      "chbtc.com": "ETC",
-      "coincap.io": "ETC",
-      "coinmarketcap.com": "ethereum-classic",
-      "coinone.co.kr": "ETC",
-      "huobi.com": "ETC",
-      "korbit.co.kr": "ETC",
-      "kraken.com": "XETC",
-      "okcoin.com": "ETC",
-      "shapeshift.io": "ETC",
-      "yunbi.com": "ETC"
-    }
-  },
-  "FCT": {
-    "name": "Factoids",
-    "symbol": "FCT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/factoids.png",
-      "small": "https://shapeshift.io/images/coins-sm/factoids.png"
-    },
-    "service": {
-      "bittrex.com": "FCT",
-      "coincap.io": "FCT",
-      "coinmarketcap.com": "factom",
-      "shapeshift.io": "FCT"
-    }
-  },
-  "FUN": {
-    "name": "FunFair",
-    "symbol": "FUN",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/funfair.png",
-      "small": "https://shapeshift.io/images/coins-sm/funfair.png"
-    },
-    "service": {
-      "bittrex.com": "FUN",
-      "coincap.io": "FUN",
-      "coinmarketcap.com": "funfair",
-      "shapeshift.io": "FUN"
-    }
-  },
-  "GAME": {
-    "name": "GameCredits",
-    "symbol": "GAME",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/game.png",
-      "small": "https://shapeshift.io/images/coins-sm/game.png"
-    },
-    "service": {
-      "bittrex.com": "GAME",
-      "coincap.io": "GAME",
-      "coinmarketcap.com": "gamecredits",
-      "shapeshift.io": "GAME"
-    }
-  },
-  "GNO": {
-    "name": "Gnosis",
-    "symbol": "GNO",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/gnosis.png",
-      "small": "https://shapeshift.io/images/coins-sm/gnosis.png"
-    },
-    "service": {
-      "bittrex.com": "GNO",
-      "coincap.io": "GNO",
-      "coinmarketcap.com": "gnosis-gno",
-      "kraken.com": "GNO",
-      "shapeshift.io": "GNO"
-    }
-  },
-  "GNT": {
-    "name": "Golem",
-    "symbol": "GNT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/golem.png",
-      "small": "https://shapeshift.io/images/coins-sm/golem.png"
-    },
-    "service": {
-      "bittrex.com": "GNT",
-      "coincap.io": "GNT",
-      "coinmarketcap.com": "golem-network-tokens",
-      "shapeshift.io": "GNT",
-      "yunbi.com": "GNT"
-    }
-  },
-  "GUP": {
-    "name": "Matchpool",
-    "symbol": "GUP",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/matchpool.png",
-      "small": "https://shapeshift.io/images/coins-sm/matchpool.png"
-    },
-    "service": {
-      "bittrex.com": "GUP",
-      "coincap.io": "GUP",
-      "coinmarketcap.com": "guppy",
-      "shapeshift.io": "GUP"
-    }
-  },
-  "ICN": {
-    "name": "Iconomi",
-    "symbol": "ICN",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/iconomi.png",
-      "small": "https://shapeshift.io/images/coins-sm/iconomi.png"
-    },
-    "service": {
-      "coincap.io": "ICN",
-      "coinmarketcap.com": "iconomi",
-      "kraken.com": "XICN",
-      "shapeshift.io": "ICN"
-    }
-  },
-  "KMD": {
-    "name": "Komodo",
-    "symbol": "KMD",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/komodo.png",
-      "small": "https://shapeshift.io/images/coins-sm/komodo.png"
-    },
-    "service": {
-      "bittrex.com": "KMD",
-      "coincap.io": "KMD",
-      "coinmarketcap.com": "komodo",
-      "shapeshift.io": "KMD"
-    }
-  },
-  "LBC": {
-    "name": "LBRY Credits",
-    "symbol": "LBC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/lbry.png",
-      "small": "https://shapeshift.io/images/coins-sm/lbry.png"
-    },
-    "service": {
-      "bittrex.com": "LBC",
-      "coincap.io": "LBC",
-      "coinmarketcap.com": "library-credi",
-      "shapeshift.io": "LBC"
-    }
-  },
-  "LSK": {
-    "name": "Lisk",
-    "symbol": "LSK",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/lisk.png",
-      "small": "https://shapeshift.io/images/coins-sm/lisk.png"
-    },
-    "service": {
-      "bittrex.com": "LSK",
-      "coincap.io": "LSK",
-      "coinmarketcap.com": "lisk",
-      "shapeshift.io": "LSK"
     }
   },
   "LTC": {
@@ -574,164 +13,22 @@
     "images": {
       "large": "https://shapeshift.io/images/coins/litecoin.png",
       "small": "https://shapeshift.io/images/coins-sm/litecoin.png"
-    },
-    "service": {
-      "bitfinex.com": "LTC",
-      "bithumb.com": "LTC",
-      "bitmex.com": "LTC",
-      "bitstamp.net": "LTC",
-      "bittrex.com": "LTC",
-      "btc-e.com": "LTC",
-      "chbtc.com": "LTC",
-      "coincap.io": "LTC",
-      "coinmarketcap.com": "litecoin",
-      "gdax.com": "LTC",
-      "huobi.com": "LTC",
-      "kraken.com": "XLTC",
-      "okcoin.com": "LTC",
-      "shapeshift.io": "LTC"
     }
   },
-  "MAID": {
-    "name": "Maidsafe",
-    "symbol": "MAID",
+  "ETH": {
+    "name": "Ether",
+    "symbol": "ETH",
     "images": {
-      "large": "https://shapeshift.io/images/coins/maidsafe.png",
-      "small": "https://shapeshift.io/images/coins-sm/maidsafe.png"
-    },
-    "service": {
-      "bittrex.com": "MAID",
-      "coincap.io": "MAID",
-      "coinmarketcap.com": "maidsafecoin",
-      "shapeshift.io": "MAID"
+      "large": "https://shapeshift.io/images/coins/ether.png",
+      "small": "https://shapeshift.io/images/coins-sm/ether.png"
     }
   },
-  "MLN": {
-    "name": "Melon",
-    "symbol": "MLN",
+  "EOS": {
+    "name": "EOS",
+    "symbol": "EOS",
     "images": {
-      "large": "https://shapeshift.io/images/coins/melon.png",
-      "small": "https://shapeshift.io/images/coins-sm/melon.png"
-    },
-    "service": {
-      "bittrex.com": "MLN",
-      "coincap.io": "MLN",
-      "coinmarketcap.com": "melon",
-      "kraken.com": "XMLN",
-      "shapeshift.io": "MLN"
-    }
-  },
-  "MTL": {
-    "name": "Metal",
-    "symbol": "MTL",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/metal.png",
-      "small": "https://shapeshift.io/images/coins-sm/metal.png"
-    },
-    "service": {
-      "bittrex.com": "MTL",
-      "coincap.io": "MTL",
-      "coinmarketcap.com": "metal",
-      "shapeshift.io": "MTL"
-    }
-  },
-  "MONA": {
-    "name": "Monacoin",
-    "symbol": "MONA",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/monacoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/monacoin.png"
-    },
-    "service": {
-      "bittrex.com": "MONA",
-      "coincap.io": "MONA",
-      "coinmarketcap.com": "monacoin",
-      "shapeshift.io": "MONA"
-    }
-  },
-  "MSC": {
-    "name": "Omni",
-    "symbol": "MSC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/mastercoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/mastercoin.png"
-    },
-    "service": {
-      "bittrex.com": "OMNI",
-      "coincap.io": "MSC",
-      "coinmarketcap.com": "omni",
-      "shapeshift.io": "MSC"
-    }
-  },
-  "NBT": {
-    "name": "Nubits",
-    "symbol": "NBT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/nubits.png",
-      "small": "https://shapeshift.io/images/coins-sm/nubits.png"
-    },
-    "service": {
-      "bittrex.com": "NBT",
-      "coincap.io": "NBT",
-      "coinmarketcap.com": "nubits",
-      "shapeshift.io": "NBT"
-    }
-  },
-  "NMC": {
-    "name": "Namecoin",
-    "symbol": "NMC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/namecoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/namecoin.png"
-    },
-    "service": {
-      "btc-e.com": "NMC",
-      "coincap.io": "NMC",
-      "coinmarketcap.com": "namecoin",
-      "kraken.com": "XNMC",
-      "shapeshift.io": "NMC"
-    }
-  },
-  "NMR": {
-    "name": "Numeraire",
-    "symbol": "NMR",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/numeraire.png",
-      "small": "https://shapeshift.io/images/coins-sm/numeraire.png"
-    },
-    "service": {
-      "bittrex.com": "NMR",
-      "coincap.io": "NMR",
-      "coinmarketcap.com": "numeraire",
-      "shapeshift.io": "NMR"
-    }
-  },
-  "NVC": {
-    "name": "Novacoin",
-    "symbol": "NVC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/novacoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/novacoin.png"
-    },
-    "service": {
-      "btc-e.com": "NVC",
-      "coincap.io": "NVC",
-      "coinmarketcap.com": "novacoin",
-      "shapeshift.io": "NVC"
-    }
-  },
-  "NXT": {
-    "name": "Nxt",
-    "symbol": "NXT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/nxt.png",
-      "small": "https://shapeshift.io/images/coins-sm/nxt.png"
-    },
-    "service": {
-      "bittrex.com": "NXT",
-      "coincap.io": "NXT",
-      "coinmarketcap.com": "nxt",
-      "shapeshift.io": "NXT"
+      "large": "https://shapeshift.io/images/coins/eos.png",
+      "small": "https://shapeshift.io/images/coins-sm/eos.jpeg"
     }
   },
   "OMG": {
@@ -740,380 +37,38 @@
     "images": {
       "large": "https://shapeshift.io/images/coins/omisego.png",
       "small": "https://shapeshift.io/images/coins-sm/omisego.png"
-    },
-    "service": {
-      "bitfinex.com": "OMG",
-      "bittrex.com": "OMG",
-      "coincap.io": "OMG",
-      "coinmarketcap.com": "omisego",
-      "shapeshift.io": "OMG"
     }
   },
-  "PAY": {
-    "name": "TenX",
-    "symbol": "PAY",
+  "RRT": {
+    "name": "Pending",
+    "symbol": "RRT",
     "images": {
-      "large": "https://shapeshift.io/images/coins/tenx.png",
-      "small": "https://shapeshift.io/images/coins-sm/tenx.png"
-    },
-    "service": {
-      "bittrex.com": "PAY",
-      "coincap.io": "PAY",
-      "coinmarketcap.com": "tenx",
-      "shapeshift.io": "PAY"
+      "large": false,
+      "small": false
     }
   },
-  "POT": {
-    "name": "Potcoin",
-    "symbol": "POT",
+  "IOTA": {
+    "name": "IOTA",
+    "symbol": "IOTA",
     "images": {
-      "large": "https://shapeshift.io/images/coins/potcoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/potcoin.png"
-    },
-    "service": {
-      "bittrex.com": "POT",
-      "coincap.io": "POT",
-      "coinmarketcap.com": "potcoin",
-      "shapeshift.io": "POT"
+      "large": false,
+      "small": false
     }
   },
-  "PPC": {
-    "name": "Peercoin",
-    "symbol": "PPC",
+  "DASH": {
+    "name": "Dash",
+    "symbol": "DASH",
     "images": {
-      "large": "https://shapeshift.io/images/coins/peercoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/peercoin.png"
-    },
-    "service": {
-      "bittrex.com": "PPC",
-      "btc-e.com": "PPC",
-      "coincap.io": "PPC",
-      "coinmarketcap.com": "peercoin",
-      "shapeshift.io": "PPC"
+      "large": "https://shapeshift.io/images/coins/dash.png",
+      "small": "https://shapeshift.io/images/coins-sm/dash.png"
     }
   },
-  "REP": {
-    "name": "Augur",
-    "symbol": "REP",
+  "ETC": {
+    "name": "Ether Classic",
+    "symbol": "ETC",
     "images": {
-      "large": "https://shapeshift.io/images/coins/augur.png",
-      "small": "https://shapeshift.io/images/coins-sm/augur.png"
-    },
-    "service": {
-      "bittrex.com": "REP",
-      "coincap.io": "REP",
-      "coinmarketcap.com": "augur",
-      "kraken.com": "XREP",
-      "shapeshift.io": "REP",
-      "yunbi.com": "REP"
-    }
-  },
-  "RDD": {
-    "name": "Reddcoin",
-    "symbol": "RDD",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/reddcoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/reddcoin.png"
-    },
-    "service": {
-      "bittrex.com": "RDD",
-      "coincap.io": "RDD",
-      "coinmarketcap.com": "reddcoin",
-      "shapeshift.io": "RDD"
-    }
-  },
-  "RLC": {
-    "name": "iExec",
-    "symbol": "RLC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/iexec.png",
-      "small": "https://shapeshift.io/images/coins-sm/iexec.png"
-    },
-    "service": {
-      "bittrex.com": "RLC",
-      "coincap.io": "RLC",
-      "coinmarketcap.com": "rlc",
-      "shapeshift.io": "RLC"
-    }
-  },
-  "SDC": {
-    "name": "Shadowcash",
-    "symbol": "SDC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/shadowcash.png",
-      "small": "https://shapeshift.io/images/coins-sm/shadowcash.png"
-    },
-    "service": {
-      "bittrex.com": "SDC",
-      "coincap.io": "SDC",
-      "coinmarketcap.com": "shadowcash",
-      "shapeshift.io": "SDC"
-    }
-  },
-  "SC": {
-    "name": "Siacoin",
-    "symbol": "SC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/siacoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/siacoin.png"
-    },
-    "service": {
-      "bittrex.com": "SC",
-      "coincap.io": "SC",
-      "coinmarketcap.com": "siacoin",
-      "shapeshift.io": "SC",
-      "yunbi.com": "SC"
-    }
-  },
-  "SNT": {
-    "name": "Status",
-    "symbol": "SNT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/status.png",
-      "small": "https://shapeshift.io/images/coins-sm/status.png"
-    },
-    "service": {
-      "bitmex.com": "SNT",
-      "bittrex.com": "SNT",
-      "coincap.io": "SNT",
-      "coinmarketcap.com": "status",
-      "shapeshift.io": "SNT",
-      "yunbi.com": "SNT"
-    }
-  },
-  "SJCX": {
-    "name": "StorjX",
-    "symbol": "SJCX",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
-      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
-    },
-    "service": {
-      "bittrex.com": "STORJ",
-      "coincap.io": "SJCX",
-      "coinmarketcap.com": "storjcoin-x",
-      "shapeshift.io": "SJCX"
-    }
-  },
-  "START": {
-    "name": "Startcoin",
-    "symbol": "START",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/startcoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/startcoin.png"
-    },
-    "service": {
-      "bittrex.com": "START",
-      "coincap.io": "START",
-      "coinmarketcap.com": "startcoin",
-      "shapeshift.io": "START"
-    }
-  },
-  "STEEM": {
-    "name": "Steem",
-    "symbol": "STEEM",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/steem.png",
-      "small": "https://shapeshift.io/images/coins-sm/steem.png"
-    },
-    "service": {
-      "bittrex.com": "STEEM",
-      "coincap.io": "STEEM",
-      "coinmarketcap.com": "steem",
-      "shapeshift.io": "STEEM"
-    }
-  },
-  "SNGLS": {
-    "name": "SingularDTV",
-    "symbol": "SNGLS",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/singular.png",
-      "small": "https://shapeshift.io/images/coins-sm/singular.png"
-    },
-    "service": {
-      "bittrex.com": "SNGLS",
-      "coincap.io": "SNGLS",
-      "coinmarketcap.com": "singulardtv",
-      "shapeshift.io": "SNGLS"
-    }
-  },
-  "SWT": {
-    "name": "Swarm City",
-    "symbol": "SWT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/swarmcity.png",
-      "small": "https://shapeshift.io/images/coins-sm/swarmcity.png"
-    },
-    "service": {
-      "bittrex.com": "SWT",
-      "coincap.io": "SWT",
-      "coinmarketcap.com": "swarm-city",
-      "shapeshift.io": "SWT"
-    }
-  },
-  "TKN": {
-    "name": "TokenCard",
-    "symbol": "TKN",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/tokencard.png",
-      "small": "https://shapeshift.io/images/coins-sm/tokencard.png"
-    },
-    "service": {
-      "bittrex.com": "TKN",
-      "coincap.io": "TKN",
-      "coinmarketcap.com": "tokencard",
-      "shapeshift.io": "TKN"
-    }
-  },
-  "TRST": {
-    "name": "WeTrust",
-    "symbol": "TRST",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/wetrust.png",
-      "small": "https://shapeshift.io/images/coins-sm/wetrust.png"
-    },
-    "service": {
-      "bittrex.com": "TRST",
-      "coincap.io": "TRST",
-      "coinmarketcap.com": "trust",
-      "shapeshift.io": "TRST"
-    }
-  },
-  "USDT": {
-    "name": "Tether",
-    "symbol": "USDT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/tether.png",
-      "small": "https://shapeshift.io/images/coins-sm/tether.png"
-    },
-    "service": {
-      "bittrex.com": "USDT",
-      "coincap.io": "USDT",
-      "coinmarketcap.com": "tether",
-      "kraken.com": "USDT",
-      "shapeshift.io": "USDT"
-    }
-  },
-  "VOX": {
-    "name": "Voxels",
-    "symbol": "VOX",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/voxels.png",
-      "small": "https://shapeshift.io/images/coins-sm/voxels.png"
-    },
-    "service": {
-      "bittrex.com": "VOX",
-      "coincap.io": "VOX",
-      "coinmarketcap.com": "voxels",
-      "shapeshift.io": "VOX"
-    }
-  },
-  "VRC": {
-    "name": "Vericoin",
-    "symbol": "VRC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/vericoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/vericoin.png"
-    },
-    "service": {
-      "bittrex.com": "VRC",
-      "coincap.io": "VRC",
-      "coinmarketcap.com": "vericoin",
-      "shapeshift.io": "VRC"
-    }
-  },
-  "VTC": {
-    "name": "Vertcoin",
-    "symbol": "VTC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/vertcoin.png",
-      "small": "https://shapeshift.io/images/coins-sm/vertcoin.png"
-    },
-    "service": {
-      "bittrex.com": "VTC",
-      "coincap.io": "VTC",
-      "coinmarketcap.com": "vertcoin",
-      "shapeshift.io": "VTC"
-    }
-  },
-  "WAVES": {
-    "name": "Waves",
-    "symbol": "WAVES",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/waves.png",
-      "small": "https://shapeshift.io/images/coins-sm/waves.png"
-    },
-    "service": {
-      "bittrex.com": "WAVES",
-      "coincap.io": "WAVES",
-      "coinmarketcap.com": "waves",
-      "shapeshift.io": "WAVES"
-    }
-  },
-  "WINGS": {
-    "name": "Wings",
-    "symbol": "WINGS",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/wings.png",
-      "small": "https://shapeshift.io/images/coins-sm/wings.png"
-    },
-    "service": {
-      "bittrex.com": "WINGS",
-      "coincap.io": "WINGS",
-      "coinmarketcap.com": "wings",
-      "shapeshift.io": "WINGS"
-    }
-  },
-  "XCP": {
-    "name": "Counterparty",
-    "symbol": "XCP",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/counterparty.png",
-      "small": "https://shapeshift.io/images/coins-sm/counterparty.png"
-    },
-    "service": {
-      "bittrex.com": "XCP",
-      "coincap.io": "XCP",
-      "coinmarketcap.com": "counterparty",
-      "shapeshift.io": "XCP"
-    }
-  },
-  "XMR": {
-    "name": "Monero",
-    "symbol": "XMR",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/monero.png",
-      "small": "https://shapeshift.io/images/coins-sm/monero.png"
-    },
-    "service": {
-      "bitfinex.com": "XMR",
-      "bitmex.com": "XMR",
-      "bittrex.com": "XMR",
-      "coincap.io": "XMP",
-      "coinmarketcap.com": "monero",
-      "kraken.com": "XXMR",
-      "shapeshift.io": "XMP"
-    }
-  },
-  "XRP": {
-    "name": "Ripple",
-    "symbol": "XRP",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/ripple.png",
-      "small": "https://shapeshift.io/images/coins-sm/ripple.png"
-    },
-    "service": {
-      "bitfinex.com": "XRP",
-      "bithumb.com": "XRP",
-      "bitmex.com": "XRP",
-      "bitstamp.net": "XRP",
-      "bittrex.com": "XRP",
-      "coincap.io": "XRP",
-      "coinmarketcap.com": "ripple",
-      "coinone.co.kr": "XRP",
-      "korbit.co.kr": "XRP",
-      "kraken.com": "XXRP",
-      "shapeshift.io": "XRP"
+      "large": "https://shapeshift.io/images/coins/etherclassic.png",
+      "small": "https://shapeshift.io/images/coins-sm/etherclassic.png"
     }
   },
   "ZEC": {
@@ -1122,16 +77,2310 @@
     "images": {
       "large": "https://shapeshift.io/images/coins/zcash.png",
       "small": "https://shapeshift.io/images/coins-sm/zcash.png"
-    },
-    "service": {
-      "bitfinex.com": "ZEC",
-      "bitmex.com": "ZEC",
-      "bittrex.com": "ZEC",
-      "coincap.io": "ZEC",
-      "coinmarketcap.com": "zcash",
-      "kraken.com": "XZEC",
-      "shapeshift.io": "ZEC",
-      "yunbi.com": "ZEC"
+    }
+  },
+  "XMR": {
+    "name": "Monero",
+    "symbol": "XMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monero.png",
+      "small": "https://shapeshift.io/images/coins-sm/monero.png"
+    }
+  },
+  "SAN": {
+    "name": "Pending",
+    "symbol": "SAN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XRP": {
+    "name": "Ripple",
+    "symbol": "XRP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/ripple.png",
+      "small": "https://shapeshift.io/images/coins-sm/ripple.png"
+    }
+  },
+  "BCU": {
+    "name": "Bitcoin Unlimited",
+    "symbol": "BCU",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BCC": {
+    "name": "Pending",
+    "symbol": "BCC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SNT": {
+    "name": "Status",
+    "symbol": "SNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/status.png",
+      "small": "https://shapeshift.io/images/coins-sm/status.png"
+    }
+  },
+  "QTUM": {
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XTZ": {
+    "name": "Pending",
+    "symbol": "XTZ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BLOCKS": {
+    "name": "Pending",
+    "symbol": "BLOCKS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XBJ": {
+    "name": "Pending",
+    "symbol": "XBJ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BTU": {
+    "name": "Bitcoin Unlimited",
+    "symbol": "BTU",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "USD": {
+    "name": "USD",
+    "symbol": "USD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EUR": {
+    "name": "EUR",
+    "symbol": "EUR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DOGE": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/dogecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/dogecoin.png"
+    }
+  },
+  "VTC": {
+    "name": "Vertcoin",
+    "symbol": "VTC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vertcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vertcoin.png"
+    }
+  },
+  "PPC": {
+    "name": "Peercoin",
+    "symbol": "PPC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/peercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/peercoin.png"
+    }
+  },
+  "FTC": {
+    "name": "Feathercoin",
+    "symbol": "FTC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "RDD": {
+    "name": "Reddcoin",
+    "symbol": "RDD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/reddcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/reddcoin.png"
+    }
+  },
+  "NXT": {
+    "name": "Nxt",
+    "symbol": "NXT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nxt.png",
+      "small": "https://shapeshift.io/images/coins-sm/nxt.png"
+    }
+  },
+  "POT": {
+    "name": "Potcoin",
+    "symbol": "POT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/potcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/potcoin.png"
+    }
+  },
+  "BLK": {
+    "name": "Blackcoin",
+    "symbol": "BLK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/blackcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/blackcoin.png"
+    }
+  },
+  "EMC2": {
+    "name": "Emercoin",
+    "symbol": "EMC2",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/emercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/emercoin.png"
+    }
+  },
+  "MYR": {
+    "name": "Pending",
+    "symbol": "MYR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "AUR": {
+    "name": "Pending",
+    "symbol": "AUR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UTC": {
+    "name": "Pending",
+    "symbol": "UTC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MZC": {
+    "name": "Pending",
+    "symbol": "MZC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EFL": {
+    "name": "Pending",
+    "symbol": "EFL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GLD": {
+    "name": "Pending",
+    "symbol": "GLD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FAIR": {
+    "name": "Pending",
+    "symbol": "FAIR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SLR": {
+    "name": "Pending",
+    "symbol": "SLR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PTC": {
+    "name": "Pending",
+    "symbol": "PTC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GRS": {
+    "name": "Pending",
+    "symbol": "GRS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NLG": {
+    "name": "Pending",
+    "symbol": "NLG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "RBY": {
+    "name": "Pending",
+    "symbol": "RBY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XWC": {
+    "name": "Pending",
+    "symbol": "XWC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MONA": {
+    "name": "Monacoin",
+    "symbol": "MONA",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/monacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/monacoin.png"
+    }
+  },
+  "BITS": {
+    "name": "Pending",
+    "symbol": "BITS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "OC": {
+    "name": "Pending",
+    "symbol": "OC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "THC": {
+    "name": "Pending",
+    "symbol": "THC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ENRG": {
+    "name": "Pending",
+    "symbol": "ENRG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SFR": {
+    "name": "Pending",
+    "symbol": "SFR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ERC": {
+    "name": "Pending",
+    "symbol": "ERC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NAUT": {
+    "name": "Pending",
+    "symbol": "NAUT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VRC": {
+    "name": "Vericoin",
+    "symbol": "VRC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/vericoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/vericoin.png"
+    }
+  },
+  "CURE": {
+    "name": "Pending",
+    "symbol": "CURE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BLC": {
+    "name": "Pending",
+    "symbol": "BLC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XC": {
+    "name": "Pending",
+    "symbol": "XC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XDQ": {
+    "name": "Pending",
+    "symbol": "XDQ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XBB": {
+    "name": "Pending",
+    "symbol": "XBB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "HYPER": {
+    "name": "Pending",
+    "symbol": "HYPER",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CCN": {
+    "name": "Pending",
+    "symbol": "CCN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CLOAK": {
+    "name": "Pending",
+    "symbol": "CLOAK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BSD": {
+    "name": "Pending",
+    "symbol": "BSD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CRYPT": {
+    "name": "Pending",
+    "symbol": "CRYPT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "START": {
+    "name": "Startcoin",
+    "symbol": "START",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/startcoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/startcoin.png"
+    }
+  },
+  "KORE": {
+    "name": "Pending",
+    "symbol": "KORE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XDN": {
+    "name": "Pending",
+    "symbol": "XDN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TRK": {
+    "name": "Pending",
+    "symbol": "TRK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "QTL": {
+    "name": "Pending",
+    "symbol": "QTL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TRUST": {
+    "name": "Pending",
+    "symbol": "TRUST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NAV": {
+    "name": "Pending",
+    "symbol": "NAV",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XST": {
+    "name": "Pending",
+    "symbol": "XST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "APEX": {
+    "name": "Pending",
+    "symbol": "APEX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BTCD": {
+    "name": "BitcoinDark",
+    "symbol": "BTCD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcoindark.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcoindark.png"
+    }
+  },
+  "VIA": {
+    "name": "Pending",
+    "symbol": "VIA",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TRI": {
+    "name": "Pending",
+    "symbol": "TRI",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UNO": {
+    "name": "Pending",
+    "symbol": "UNO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PINK": {
+    "name": "Pending",
+    "symbol": "PINK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "IOC": {
+    "name": "Pending",
+    "symbol": "IOC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SDC": {
+    "name": "Shadowcash",
+    "symbol": "SDC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/shadowcash.png",
+      "small": "https://shapeshift.io/images/coins-sm/shadowcash.png"
+    }
+  },
+  "MAX": {
+    "name": "Pending",
+    "symbol": "MAX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "LXC": {
+    "name": "Pending",
+    "symbol": "LXC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BOB": {
+    "name": "Pending",
+    "symbol": "BOB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CANN": {
+    "name": "Pending",
+    "symbol": "CANN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FC2": {
+    "name": "Pending",
+    "symbol": "FC2",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SSD": {
+    "name": "Pending",
+    "symbol": "SSD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "J": {
+    "name": "Pending",
+    "symbol": "J",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SYS": {
+    "name": "Pending",
+    "symbol": "SYS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NEOS": {
+    "name": "Pending",
+    "symbol": "NEOS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DGB": {
+    "name": "Digibyte",
+    "symbol": "DGB",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digibyte.png",
+      "small": "https://shapeshift.io/images/coins-sm/digibyte.png"
+    }
+  },
+  "ROOT": {
+    "name": "Pending",
+    "symbol": "ROOT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BTS": {
+    "name": "Bitshares",
+    "symbol": "BTS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitshares.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitshares.png"
+    }
+  },
+  "BURST": {
+    "name": "Pending",
+    "symbol": "BURST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TIT": {
+    "name": "Pending",
+    "symbol": "TIT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BSTY": {
+    "name": "Pending",
+    "symbol": "BSTY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PXI": {
+    "name": "Pending",
+    "symbol": "PXI",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DGC": {
+    "name": "Pending",
+    "symbol": "DGC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SLG": {
+    "name": "Pending",
+    "symbol": "SLG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "STV": {
+    "name": "Pending",
+    "symbol": "STV",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EXCL": {
+    "name": "Pending",
+    "symbol": "EXCL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SWIFT": {
+    "name": "Pending",
+    "symbol": "SWIFT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ARCH": {
+    "name": "Pending",
+    "symbol": "ARCH",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NET": {
+    "name": "Pending",
+    "symbol": "NET",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GHC": {
+    "name": "Pending",
+    "symbol": "GHC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DOPE": {
+    "name": "Pending",
+    "symbol": "DOPE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BLOCK": {
+    "name": "Pending",
+    "symbol": "BLOCK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ABY": {
+    "name": "Pending",
+    "symbol": "ABY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VIOR": {
+    "name": "Pending",
+    "symbol": "VIOR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BYC": {
+    "name": "Pending",
+    "symbol": "BYC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UFO": {
+    "name": "Pending",
+    "symbol": "UFO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XMG": {
+    "name": "Pending",
+    "symbol": "XMG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XQN": {
+    "name": "Pending",
+    "symbol": "XQN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BLITZ": {
+    "name": "Pending",
+    "symbol": "BLITZ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VPN": {
+    "name": "Pending",
+    "symbol": "VPN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BAY": {
+    "name": "Pending",
+    "symbol": "BAY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DTC": {
+    "name": "Pending",
+    "symbol": "DTC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "AM": {
+    "name": "Pending",
+    "symbol": "AM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "METAL": {
+    "name": "Pending",
+    "symbol": "METAL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SPR": {
+    "name": "Pending",
+    "symbol": "SPR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VTR": {
+    "name": "Pending",
+    "symbol": "VTR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XPY": {
+    "name": "Pending",
+    "symbol": "XPY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GAME": {
+    "name": "GameCredits",
+    "symbol": "GAME",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/game.png",
+      "small": "https://shapeshift.io/images/coins-sm/game.png"
+    }
+  },
+  "GP": {
+    "name": "Pending",
+    "symbol": "GP",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NXS": {
+    "name": "Pending",
+    "symbol": "NXS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "COVAL": {
+    "name": "Pending",
+    "symbol": "COVAL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FSC2": {
+    "name": "Pending",
+    "symbol": "FSC2",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SOON": {
+    "name": "Pending",
+    "symbol": "SOON",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "HZ": {
+    "name": "Pending",
+    "symbol": "HZ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XCP": {
+    "name": "Counterparty",
+    "symbol": "XCP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/counterparty.png",
+      "small": "https://shapeshift.io/images/coins-sm/counterparty.png"
+    }
+  },
+  "BITB": {
+    "name": "Pending",
+    "symbol": "BITB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XTC": {
+    "name": "Pending",
+    "symbol": "XTC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XVG": {
+    "name": "Pending",
+    "symbol": "XVG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GEO": {
+    "name": "Pending",
+    "symbol": "GEO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FLDC": {
+    "name": "Pending",
+    "symbol": "FLDC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "WBB": {
+    "name": "Pending",
+    "symbol": "WBB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GEMZ": {
+    "name": "Pending",
+    "symbol": "GEMZ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GRC": {
+    "name": "Pending",
+    "symbol": "GRC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XCO": {
+    "name": "Pending",
+    "symbol": "XCO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MTR": {
+    "name": "Pending",
+    "symbol": "MTR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FLO": {
+    "name": "Pending",
+    "symbol": "FLO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "U": {
+    "name": "Pending",
+    "symbol": "U",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NBT": {
+    "name": "Nubits",
+    "symbol": "NBT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/nubits.png",
+      "small": "https://shapeshift.io/images/coins-sm/nubits.png"
+    }
+  },
+  "XEM": {
+    "name": "Pending",
+    "symbol": "XEM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MUE": {
+    "name": "Pending",
+    "symbol": "MUE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XVC": {
+    "name": "Pending",
+    "symbol": "XVC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "8BIT": {
+    "name": "Pending",
+    "symbol": "8BIT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CLAM": {
+    "name": "Clams",
+    "symbol": "CLAM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/clams.png",
+      "small": "https://shapeshift.io/images/coins-sm/clams.png"
+    }
+  },
+  "XSEED": {
+    "name": "Pending",
+    "symbol": "XSEED",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NTRN": {
+    "name": "Pending",
+    "symbol": "NTRN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SLING": {
+    "name": "Pending",
+    "symbol": "SLING",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DMD": {
+    "name": "Pending",
+    "symbol": "DMD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GAM": {
+    "name": "Pending",
+    "symbol": "GAM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UNIT": {
+    "name": "Pending",
+    "symbol": "UNIT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GRT": {
+    "name": "Pending",
+    "symbol": "GRT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VIRAL": {
+    "name": "Pending",
+    "symbol": "VIRAL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SPHR": {
+    "name": "Pending",
+    "symbol": "SPHR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ARB": {
+    "name": "Pending",
+    "symbol": "ARB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "OK": {
+    "name": "Pending",
+    "symbol": "OK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ADC": {
+    "name": "Pending",
+    "symbol": "ADC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SNRG": {
+    "name": "Pending",
+    "symbol": "SNRG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PKB": {
+    "name": "Pending",
+    "symbol": "PKB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TES": {
+    "name": "Pending",
+    "symbol": "TES",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CPC": {
+    "name": "Pending",
+    "symbol": "CPC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "AEON": {
+    "name": "Pending",
+    "symbol": "AEON",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BITZ": {
+    "name": "Pending",
+    "symbol": "BITZ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GCR": {
+    "name": "Pending",
+    "symbol": "GCR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TX": {
+    "name": "Pending",
+    "symbol": "TX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BCY": {
+    "name": "BitCrystals",
+    "symbol": "BCY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bitcrystals.png",
+      "small": "https://shapeshift.io/images/coins-sm/bitcrystals.png"
+    }
+  },
+  "PRIME": {
+    "name": "Pending",
+    "symbol": "PRIME",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EXP": {
+    "name": "Pending",
+    "symbol": "EXP",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NEU": {
+    "name": "Pending",
+    "symbol": "NEU",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SWING": {
+    "name": "Pending",
+    "symbol": "SWING",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "INFX": {
+    "name": "Pending",
+    "symbol": "INFX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MSC": {
+    "name": "Omni",
+    "symbol": "MSC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/mastercoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/mastercoin.png"
+    }
+  },
+  "USDT": {
+    "name": "Tether",
+    "symbol": "USDT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tether.png",
+      "small": "https://shapeshift.io/images/coins-sm/tether.png"
+    }
+  },
+  "AMP": {
+    "name": "Pending",
+    "symbol": "AMP",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "AGRS": {
+    "name": "Pending",
+    "symbol": "AGRS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XLM": {
+    "name": "Pending",
+    "symbol": "XLM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SPRTS": {
+    "name": "Pending",
+    "symbol": "SPRTS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "YBC": {
+    "name": "Pending",
+    "symbol": "YBC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BTA": {
+    "name": "Pending",
+    "symbol": "BTA",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MEC": {
+    "name": "Pending",
+    "symbol": "MEC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BITCNY": {
+    "name": "Pending",
+    "symbol": "BITCNY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "AMS": {
+    "name": "Pending",
+    "symbol": "AMS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SCRT": {
+    "name": "Pending",
+    "symbol": "SCRT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SCOT": {
+    "name": "Pending",
+    "symbol": "SCOT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CLUB": {
+    "name": "Pending",
+    "symbol": "CLUB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VOX": {
+    "name": "Voxels",
+    "symbol": "VOX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/voxels.png",
+      "small": "https://shapeshift.io/images/coins-sm/voxels.png"
+    }
+  },
+  "MND": {
+    "name": "Pending",
+    "symbol": "MND",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EMC": {
+    "name": "Einsteinium",
+    "symbol": "EMC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FCT": {
+    "name": "Factoids",
+    "symbol": "FCT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/factoids.png",
+      "small": "https://shapeshift.io/images/coins-sm/factoids.png"
+    }
+  },
+  "MAID": {
+    "name": "Maidsafe",
+    "symbol": "MAID",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/maidsafe.png",
+      "small": "https://shapeshift.io/images/coins-sm/maidsafe.png"
+    }
+  },
+  "FRK": {
+    "name": "Pending",
+    "symbol": "FRK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EGC": {
+    "name": "Pending",
+    "symbol": "EGC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SLS": {
+    "name": "Pending",
+    "symbol": "SLS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ORB": {
+    "name": "Pending",
+    "symbol": "ORB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "STEPS": {
+    "name": "Pending",
+    "symbol": "STEPS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "RADS": {
+    "name": "Pending",
+    "symbol": "RADS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DCR": {
+    "name": "Decred",
+    "symbol": "DCR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/decred.png",
+      "small": "https://shapeshift.io/images/coins-sm/decred.png"
+    }
+  },
+  "SEC": {
+    "name": "Pending",
+    "symbol": "SEC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PIVX": {
+    "name": "Pending",
+    "symbol": "PIVX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "WARP": {
+    "name": "Pending",
+    "symbol": "WARP",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CRBIT": {
+    "name": "Pending",
+    "symbol": "CRBIT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MEME": {
+    "name": "Pending",
+    "symbol": "MEME",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "STEEM": {
+    "name": "Steem",
+    "symbol": "STEEM",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/steem.png",
+      "small": "https://shapeshift.io/images/coins-sm/steem.png"
+    }
+  },
+  "2GIVE": {
+    "name": "Pending",
+    "symbol": "2GIVE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "LSK": {
+    "name": "Lisk",
+    "symbol": "LSK",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lisk.png",
+      "small": "https://shapeshift.io/images/coins-sm/lisk.png"
+    }
+  },
+  "KR": {
+    "name": "Pending",
+    "symbol": "KR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PDC": {
+    "name": "Pending",
+    "symbol": "PDC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DGD": {
+    "name": "DigixDao",
+    "symbol": "DGD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/digixdao.png",
+      "small": "https://shapeshift.io/images/coins-sm/digixdao.png"
+    }
+  },
+  "BRK": {
+    "name": "Pending",
+    "symbol": "BRK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "WAVES": {
+    "name": "Waves",
+    "symbol": "WAVES",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/waves.png",
+      "small": "https://shapeshift.io/images/coins-sm/waves.png"
+    }
+  },
+  "RISE": {
+    "name": "Pending",
+    "symbol": "RISE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "LBC": {
+    "name": "LBRY Credits",
+    "symbol": "LBC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/lbry.png",
+      "small": "https://shapeshift.io/images/coins-sm/lbry.png"
+    }
+  },
+  "SBD": {
+    "name": "Pending",
+    "symbol": "SBD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BRX": {
+    "name": "Pending",
+    "symbol": "BRX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DRACO": {
+    "name": "Pending",
+    "symbol": "DRACO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UNIQ": {
+    "name": "Pending",
+    "symbol": "UNIQ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "STRAT": {
+    "name": "Pending",
+    "symbol": "STRAT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UNB": {
+    "name": "Pending",
+    "symbol": "UNB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SYNX": {
+    "name": "Pending",
+    "symbol": "SYNX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TRIG": {
+    "name": "Pending",
+    "symbol": "TRIG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EBST": {
+    "name": "Pending",
+    "symbol": "EBST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VRM": {
+    "name": "Pending",
+    "symbol": "VRM",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XAUR": {
+    "name": "Pending",
+    "symbol": "XAUR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SEQ": {
+    "name": "Pending",
+    "symbol": "SEQ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SNGLS": {
+    "name": "SingularDTV",
+    "symbol": "SNGLS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/singular.png",
+      "small": "https://shapeshift.io/images/coins-sm/singular.png"
+    }
+  },
+  "JWL": {
+    "name": "Pending",
+    "symbol": "JWL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "REP": {
+    "name": "Augur",
+    "symbol": "REP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/augur.png",
+      "small": "https://shapeshift.io/images/coins-sm/augur.png"
+    }
+  },
+  "SHIFT": {
+    "name": "Pending",
+    "symbol": "SHIFT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ARDR": {
+    "name": "Pending",
+    "symbol": "ARDR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XZC": {
+    "name": "Pending",
+    "symbol": "XZC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ANS": {
+    "name": "Pending",
+    "symbol": "ANS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ZCL": {
+    "name": "Pending",
+    "symbol": "ZCL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "IOP": {
+    "name": "Pending",
+    "symbol": "IOP",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DAR": {
+    "name": "Pending",
+    "symbol": "DAR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GOLOS": {
+    "name": "Pending",
+    "symbol": "GOLOS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GBG": {
+    "name": "Pending",
+    "symbol": "GBG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "UBQ": {
+    "name": "Pending",
+    "symbol": "UBQ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "HKG": {
+    "name": "Pending",
+    "symbol": "HKG",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "KMD": {
+    "name": "Komodo",
+    "symbol": "KMD",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/komodo.png",
+      "small": "https://shapeshift.io/images/coins-sm/komodo.png"
+    }
+  },
+  "SIB": {
+    "name": "Pending",
+    "symbol": "SIB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ION": {
+    "name": "Pending",
+    "symbol": "ION",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "LMC": {
+    "name": "Pending",
+    "symbol": "LMC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "QWARK": {
+    "name": "Pending",
+    "symbol": "QWARK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CRW": {
+    "name": "Pending",
+    "symbol": "CRW",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SWT": {
+    "name": "Swarm City",
+    "symbol": "SWT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/swarmcity.png",
+      "small": "https://shapeshift.io/images/coins-sm/swarmcity.png"
+    }
+  },
+  "TIME": {
+    "name": "Pending",
+    "symbol": "TIME",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MLN": {
+    "name": "Melon",
+    "symbol": "MLN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/melon.png",
+      "small": "https://shapeshift.io/images/coins-sm/melon.png"
+    }
+  },
+  "TKS": {
+    "name": "Pending",
+    "symbol": "TKS",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ARK": {
+    "name": "Pending",
+    "symbol": "ARK",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DYN": {
+    "name": "Pending",
+    "symbol": "DYN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MUSIC": {
+    "name": "Pending",
+    "symbol": "MUSIC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DTB": {
+    "name": "Pending",
+    "symbol": "DTB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "INCNT": {
+    "name": "Pending",
+    "symbol": "INCNT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GBYTE": {
+    "name": "Pending",
+    "symbol": "GBYTE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "GNT": {
+    "name": "Golem",
+    "symbol": "GNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/golem.png",
+      "small": "https://shapeshift.io/images/coins-sm/golem.png"
+    }
+  },
+  "NXC": {
+    "name": "Pending",
+    "symbol": "NXC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "EDG": {
+    "name": "Edgeless",
+    "symbol": "EDG",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/edgeless.png",
+      "small": "https://shapeshift.io/images/coins-sm/edgeless.png"
+    }
+  },
+  "LGD": {
+    "name": "Pending",
+    "symbol": "LGD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TRST": {
+    "name": "WeTrust",
+    "symbol": "TRST",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wetrust.png",
+      "small": "https://shapeshift.io/images/coins-sm/wetrust.png"
+    }
+  },
+  "WINGS": {
+    "name": "Wings",
+    "symbol": "WINGS",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/wings.png",
+      "small": "https://shapeshift.io/images/coins-sm/wings.png"
+    }
+  },
+  "RLC": {
+    "name": "iExec",
+    "symbol": "RLC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iexec.png",
+      "small": "https://shapeshift.io/images/coins-sm/iexec.png"
+    }
+  },
+  "GNO": {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/gnosis.png",
+      "small": "https://shapeshift.io/images/coins-sm/gnosis.png"
+    }
+  },
+  "GUP": {
+    "name": "Matchpool",
+    "symbol": "GUP",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/matchpool.png",
+      "small": "https://shapeshift.io/images/coins-sm/matchpool.png"
+    }
+  },
+  "LUN": {
+    "name": "Pending",
+    "symbol": "LUN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "APX": {
+    "name": "Pending",
+    "symbol": "APX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TKN": {
+    "name": "TokenCard",
+    "symbol": "TKN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tokencard.png",
+      "small": "https://shapeshift.io/images/coins-sm/tokencard.png"
+    }
+  },
+  "HMQ": {
+    "name": "Pending",
+    "symbol": "HMQ",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ANT": {
+    "name": "Aragon",
+    "symbol": "ANT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/aragon.png",
+      "small": "https://shapeshift.io/images/coins-sm/aragon.png"
+    }
+  },
+  "ZEN": {
+    "name": "Pending",
+    "symbol": "ZEN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SC": {
+    "name": "Siacoin",
+    "symbol": "SC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/siacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/siacoin.png"
+    }
+  },
+  "BAT": {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/basicattentiontoken.png",
+      "small": "https://shapeshift.io/images/coins-sm/basicattentiontoken.png"
+    }
+  },
+  "1ST": {
+    "name": "Pending",
+    "symbol": "1ST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "QRL": {
+    "name": "Pending",
+    "symbol": "QRL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CRB": {
+    "name": "Pending",
+    "symbol": "CRB",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "TROLL": {
+    "name": "Pending",
+    "symbol": "TROLL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PTOY": {
+    "name": "Pending",
+    "symbol": "PTOY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MYST": {
+    "name": "Pending",
+    "symbol": "MYST",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CFI": {
+    "name": "Pending",
+    "symbol": "CFI",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "BNT": {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/bancor.png",
+      "small": "https://shapeshift.io/images/coins-sm/bancor.png"
+    }
+  },
+  "NMR": {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/numeraire.png",
+      "small": "https://shapeshift.io/images/coins-sm/numeraire.png"
+    }
+  },
+  "DCT": {
+    "name": "Pending",
+    "symbol": "DCT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XEL": {
+    "name": "Pending",
+    "symbol": "XEL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "MCO": {
+    "name": "Pending",
+    "symbol": "MCO",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ADT": {
+    "name": "Pending",
+    "symbol": "ADT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FUN": {
+    "name": "FunFair",
+    "symbol": "FUN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/funfair.png",
+      "small": "https://shapeshift.io/images/coins-sm/funfair.png"
+    }
+  },
+  "PAY": {
+    "name": "TenX",
+    "symbol": "PAY",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tenx.png",
+      "small": "https://shapeshift.io/images/coins-sm/tenx.png"
+    }
+  },
+  "MTL": {
+    "name": "Metal",
+    "symbol": "MTL",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/metal.png",
+      "small": "https://shapeshift.io/images/coins-sm/metal.png"
+    }
+  },
+  "SJCX": {
+    "name": "StorjX",
+    "symbol": "SJCX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
+      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
+    }
+  },
+  "ADX": {
+    "name": "Pending",
+    "symbol": "ADX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CVC": {
+    "name": "Civic",
+    "symbol": "CVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/civic.png",
+      "small": "https://shapeshift.io/images/coins-sm/civic.png"
+    }
+  },
+  "PART": {
+    "name": "Pending",
+    "symbol": "PART",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NMC": {
+    "name": "Namecoin",
+    "symbol": "NMC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/namecoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/namecoin.png"
+    }
+  },
+  "NVC": {
+    "name": "Novacoin",
+    "symbol": "NVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/novacoin.png",
+      "small": "https://shapeshift.io/images/coins-sm/novacoin.png"
+    }
+  },
+  "RUR": {
+    "name": "Pending",
+    "symbol": "RUR",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CNY": {
+    "name": "Pending",
+    "symbol": "CNY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ICN": {
+    "name": "Iconomi",
+    "symbol": "ICN",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/iconomi.png",
+      "small": "https://shapeshift.io/images/coins-sm/iconomi.png"
     }
   }
 }
