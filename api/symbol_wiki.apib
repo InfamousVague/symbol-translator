@@ -21,6 +21,12 @@ const normalize = require('crypto-normalize')
 // Translate symbol
 normalize.translate("ETH", "kraken.com") // XETH
 
+// Translate from service, to spec
+normalize.translateFrom("kraken.com", "XXBT") // BTC
+
+// Shift symbol
+normalize.shift("XXBTXETH", "kraken.com", "gdax.com") // BTC-ETH
+
 // Get image of coin
 normalize.image("ETH") // https://shapeshift.io/images/coins/ether.png
 
@@ -168,6 +174,32 @@ Translate from our glossarys supported symbol to the symbol a service uses
                 "symbol": "XXBT"
             }
 
+
+## Shift pair [/v1/shift/{pair}/{inputService}/{outputService}]
+Translate a pair from one exchange to another exchanges spec
+
++ Parameters
+
+    + pair: 1 (string) - The pair to trasnlate (e.g. XXBTXETH)
+    
+    + inputService: 1 (string) - The service to translate from (e.g. kraken.com)
+
+    + outputService: 2 (string) - The service to translate to (e.g. gdax.com)
+
+### Shift pair [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "service": "gdax.com",
+                "pair": "BTC-ETH"
+            }
+
+
 ## Translate Coin Pair [/v1/translate/{base}/{target}/{service}]
 Translate from our glossarys supported symbol to the symbol pair a service uses
 
@@ -178,6 +210,29 @@ Translate from our glossarys supported symbol to the symbol pair a service uses
     + target: 2 (string) - The symbol of the target coin from our glossary (e.g. ETH)
 
     + service: 2 (string) - The URL of the service to translate to (e.g. kraken.com)
+
+### Translate a symbol [GET]
+
+
++ Response 200 (application/json)
+
+
+    + Body
+
+            {
+                "service": "kraken.com",
+                "symbol": "XXBT"
+            }
+
+## Translate Coin to spec [/v1/translate-from/{service}/{symbol}]
+Translate from an exchanges spec to our standard
+
++ Parameters
+
+    + service: 2 (string) - The URL of the service to translate from (e.g. kraken.com)
+
+    + symbol: 2 (string) - The symbol of the target coin from our glossary (e.g. XXBT)
+
 
 ### Translate a symbol pair [GET]
 

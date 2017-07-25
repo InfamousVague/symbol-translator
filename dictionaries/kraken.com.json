@@ -15,5 +15,9 @@
   "XMR": "XXMR",
   "XRP": "XXRP",
   "ZEC": "XZEC",
-  "USD": "ZUSD"
+  "USD": "ZUSD",
+  "EUR": "ZEUR",
+  "KRW": "ZKRW",
+  "JPY": "ZJPY",
+  "CAD": "ZCAD"
 }

@@ -2382,5 +2382,29 @@
       "large": false,
       "small": false
     }
+  },
+  "KRW": {
+    "name": "Pending",
+    "symbol": "KRW",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "JPY": {
+    "name": "Pending",
+    "symbol": "JPY",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "CAD": {
+    "name": "Pending",
+    "symbol": "CAD",
+    "images": {
+      "large": false,
+      "small": false
+    }
   }
 }

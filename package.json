@@ -6,7 +6,7 @@
   "runkitExampleFilename": "example.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node build/buildCoins.js && node build/build.js && node build/applyExtras.js"
+    "build": "node build/buildCoins.js && node build/applyExtras.js && node build/build.js "
   },
   "repository": {
     "type": "git",

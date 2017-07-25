@@ -17,3 +17,7 @@ normalize.doesSupport("FCT", "kraken.com") // false
 normalize.doesSupport("ETH", "kraken.com") // true
 
 normalize.coin("ZEC")
+
+console.log(
+    normalize.shift("XXBTXETH", "kraken.com", "gdax.com")
+)

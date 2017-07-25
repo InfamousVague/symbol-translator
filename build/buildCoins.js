@@ -13,6 +13,7 @@ walker.on('file', (root, fileStats, next) => {
   
   Object.keys(dictionary).map((coin, i) => {
     if (!coins.coin) {
+      console.log(coin, 'added to list of coins')
       coins[coin] = {
         "name": "Pending",
         "symbol": coin,
@@ -28,6 +29,5 @@ walker.on('file', (root, fileStats, next) => {
 })
 
 walker.on("end", function () {
-  console.log(coins)
   fs.writeFile('dist/coins.json', JSON.stringify(coins, null, 2))
 })

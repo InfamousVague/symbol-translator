@@ -9,7 +9,7 @@ let glossary = Object.assign({}, coins)
 
 Object.keys(coins).map((coin, i) => {
   if (coinExtras[coin]) {
-    console.log(coin, 'is in extras')
+    console.log(coin, 'added to extras')
     glossary[coin] = Object.assign(
       {},
       glossary[coin],
@@ -20,7 +20,6 @@ Object.keys(coins).map((coin, i) => {
     )
   } else {
     glossary[coin] = coins[coin]
-    console.log(coin, 'is not in extras')
   }
 
   if (i >= Object.keys(coins).length - 1) {

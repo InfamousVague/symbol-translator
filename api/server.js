@@ -23,6 +23,15 @@ const controllers = {
             )
         }
     },
+    translateFrom: (ctx, service, coin) => {
+        ctx.body = {
+            service,
+            symbol: norm.translateFrom(
+                service,
+                coin.toUpperCase()
+            )
+        }
+    },
     pair: (ctx, base, target, service) => {
         ctx.body = {
             service,
@@ -30,6 +39,16 @@ const controllers = {
                 base.toUpperCase(), 
                 target.toUpperCase(), 
                 service
+            )
+        }
+    },    
+    shift: (ctx, pair, base, target) => {
+        ctx.body = {
+            service: target,
+            pair: norm.shift(
+                pair.toUpperCase(), 
+                base, 
+                target
             )
         }
     },
@@ -55,9 +74,11 @@ app.use(_.get('/v1', controllers.glossary))
     .use(_.get('/v1/coins', controllers.coins))
     .use(_.get('/v1/coin/:coin', controllers.coin))
     .use(_.get('/v1/translate/:coin/:service', controllers.translate))
+    .use(_.get('/v1/translate-from/:service/:coin', controllers.translateFrom))
     .use(_.get('/v1/pair/:base/:target/:service', controllers.pair))
     .use(_.get('/v1/check/:coin/:service', controllers.check))
     .use(_.get('/v1/services', controllers.services))
+    .use(_.get('/v1/shift/:pair/:base/:target', controllers.shift))
     .use(_.get('/', controllers.docs))
 
 app.listen(3008)
