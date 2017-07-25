@@ -7,12 +7,24 @@
       "small": "https://shapeshift.io/images/coins-sm/bitcoin.png"
     },
     "service": {
+      "bitfinex.com": "BTC",
+      "bithumb.com": "BTC",
+      "bitmex.com": "XBT",
+      "bitstamp.net": "BTC",
       "bittrex.com": "BTC",
+      "btc-e.com": "BTC",
+      "chbtc.com": "BTC",
       "coincap.io": "BTC",
       "coinmarketcap.com": "bitcoin",
+      "coinone.co.kr": "BTC",
       "gdax.com": "BTC",
+      "gemini.com": "BTC",
+      "huobi.com": "BTC",
+      "korbit.co.kr": "BTC",
       "kraken.com": "XXBT",
-      "shapeshift.io": "BTC"
+      "okcoin.com": "BTC",
+      "shapeshift.io": "BTC",
+      "yunbi.com": "BTC"
     }
   },
   "ANT": {
@@ -26,7 +38,8 @@
       "bittrex.com": "ANT",
       "coincap.io": "ANT",
       "coinmarketcap.com": "aragon",
-      "shapeshift.io": "ANT"
+      "shapeshift.io": "ANT",
+      "yunbi.com": "ANS"
     }
   },
   "BAT": {
@@ -108,9 +121,11 @@
     },
     "service": {
       "bittrex.com": "BTS",
+      "chbtc.com": "BTS",
       "coincap.io": "BTS",
       "coinmarketcap.com": "bitshares",
-      "shapeshift.io": "BTS"
+      "shapeshift.io": "BTS",
+      "yunbi.com": "BTS"
     }
   },
   "CVC": {
@@ -149,7 +164,11 @@
       "small": "https://shapeshift.io/images/coins-sm/dash.png"
     },
     "service": {
+      "bitfinex.com": "DASH",
+      "bithumb.com": "DASH",
+      "bitmex.com": "DASH",
       "bittrex.com": "DASH",
+      "btc-e.com": "DSH",
       "coincap.io": "DASH",
       "coinmarketcap.com": "dash",
       "kraken.com": "DASH",
@@ -196,7 +215,8 @@
       "bittrex.com": "DGD",
       "coincap.io": "DGD",
       "coinmarketcap.com": "digixdao",
-      "shapeshift.io": "DGD"
+      "shapeshift.io": "DGD",
+      "yunbi.com": "DGD"
     }
   },
   "DOGE": {
@@ -249,10 +269,14 @@
       "small": "https://shapeshift.io/images/coins-sm/eos.jpeg"
     },
     "service": {
+      "bitfinex.com": "EOS",
+      "bitmex.com": "EOS",
+      "chbtc.com": "EOS",
       "coincap.io": "EOS",
       "coinmarketcap.com": "eos",
       "kraken.com": "EOS",
-      "shapeshift.io": "EOS"
+      "shapeshift.io": "EOS",
+      "yunbi.com": "EOS"
     }
   },
   "ETH": {
@@ -263,12 +287,23 @@
       "small": "https://shapeshift.io/images/coins-sm/ether.png"
     },
     "service": {
+      "bitfinex.com": "ETH",
+      "bithumb.com": "ETH",
+      "bitmex.com": "ETH",
       "bittrex.com": "ETH",
+      "btc-e.com": "ETH",
+      "chbtc.com": "ETH",
       "coincap.io": "ETH",
       "coinmarketcap.com": "ethereum",
+      "coinone.co.kr": "ETH",
       "gdax.com": "ETH",
+      "gemini.com": "ETH",
+      "huobi.com": "ETH",
+      "korbit.co.kr": "ETH",
       "kraken.com": "XETH",
-      "shapeshift.io": "ETH"
+      "okcoin.com": "ETH",
+      "shapeshift.io": "ETH",
+      "yunbi.com": "ETH"
     }
   },
   "ETC": {
@@ -279,11 +314,20 @@
       "small": "https://shapeshift.io/images/coins-sm/etherclassic.png"
     },
     "service": {
+      "bitfinex.com": "ETC",
+      "bithumb.com": "ETC",
+      "bitmex.com": "ETC",
       "bittrex.com": "ETC",
+      "chbtc.com": "ETC",
       "coincap.io": "ETC",
       "coinmarketcap.com": "ethereum-classic",
+      "coinone.co.kr": "ETC",
+      "huobi.com": "ETC",
+      "korbit.co.kr": "ETC",
       "kraken.com": "XETC",
-      "shapeshift.io": "ETC"
+      "okcoin.com": "ETC",
+      "shapeshift.io": "ETC",
+      "yunbi.com": "ETC"
     }
   },
   "FCT": {
@@ -354,7 +398,8 @@
       "bittrex.com": "GNT",
       "coincap.io": "GNT",
       "coinmarketcap.com": "golem-network-tokens",
-      "shapeshift.io": "GNT"
+      "shapeshift.io": "GNT",
+      "yunbi.com": "GNT"
     }
   },
   "GUP": {
@@ -435,11 +480,19 @@
       "small": "https://shapeshift.io/images/coins-sm/litecoin.png"
     },
     "service": {
+      "bitfinex.com": "LTC",
+      "bithumb.com": "LTC",
+      "bitmex.com": "LTC",
+      "bitstamp.net": "LTC",
       "bittrex.com": "LTC",
+      "btc-e.com": "LTC",
+      "chbtc.com": "LTC",
       "coincap.io": "LTC",
       "coinmarketcap.com": "litecoin",
       "gdax.com": "LTC",
+      "huobi.com": "LTC",
       "kraken.com": "XLTC",
+      "okcoin.com": "LTC",
       "shapeshift.io": "LTC"
     }
   },
@@ -536,6 +589,7 @@
       "small": "https://shapeshift.io/images/coins-sm/namecoin.png"
     },
     "service": {
+      "btc-e.com": "NMC",
       "coincap.io": "NMC",
       "coinmarketcap.com": "namecoin",
       "kraken.com": "XNMC",
@@ -564,6 +618,7 @@
       "small": "https://shapeshift.io/images/coins-sm/novacoin.png"
     },
     "service": {
+      "btc-e.com": "NVC",
       "coincap.io": "NVC",
       "coinmarketcap.com": "novacoin",
       "shapeshift.io": "NVC"
@@ -591,6 +646,7 @@
       "small": "https://shapeshift.io/images/coins-sm/omisego.png"
     },
     "service": {
+      "bitfinex.com": "OMG",
       "bittrex.com": "OMG",
       "coincap.io": "OMG",
       "coinmarketcap.com": "omisego",
@@ -634,6 +690,7 @@
     },
     "service": {
       "bittrex.com": "PPC",
+      "btc-e.com": "PPC",
       "coincap.io": "PPC",
       "coinmarketcap.com": "peercoin",
       "shapeshift.io": "PPC"
@@ -651,7 +708,8 @@
       "coincap.io": "REP",
       "coinmarketcap.com": "augur",
       "kraken.com": "XREP",
-      "shapeshift.io": "REP"
+      "shapeshift.io": "REP",
+      "yunbi.com": "REP"
     }
   },
   "RDD": {
@@ -707,7 +765,8 @@
       "bittrex.com": "SC",
       "coincap.io": "SC",
       "coinmarketcap.com": "siacoin",
-      "shapeshift.io": "SC"
+      "shapeshift.io": "SC",
+      "yunbi.com": "SC"
     }
   },
   "SNT": {
@@ -718,10 +777,12 @@
       "small": "https://shapeshift.io/images/coins-sm/status.png"
     },
     "service": {
+      "bitmex.com": "SNT",
       "bittrex.com": "SNT",
       "coincap.io": "SNT",
       "coinmarketcap.com": "status",
-      "shapeshift.io": "SNT"
+      "shapeshift.io": "SNT",
+      "yunbi.com": "SNT"
     }
   },
   "SJCX": {
@@ -929,6 +990,8 @@
       "small": "https://shapeshift.io/images/coins-sm/monero.png"
     },
     "service": {
+      "bitfinex.com": "XMR",
+      "bitmex.com": "XMR",
       "bittrex.com": "XMR",
       "coincap.io": "XMP",
       "coinmarketcap.com": "monero",
@@ -944,9 +1007,15 @@
       "small": "https://shapeshift.io/images/coins-sm/ripple.png"
     },
     "service": {
+      "bitfinex.com": "XRP",
+      "bithumb.com": "XRP",
+      "bitmex.com": "XRP",
+      "bitstamp.net": "XRP",
       "bittrex.com": "XRP",
       "coincap.io": "XRP",
       "coinmarketcap.com": "ripple",
+      "coinone.co.kr": "XRP",
+      "korbit.co.kr": "XRP",
       "kraken.com": "XXRP",
       "shapeshift.io": "XRP"
     }
@@ -959,11 +1028,14 @@
       "small": "https://shapeshift.io/images/coins-sm/zcash.png"
     },
     "service": {
+      "bitfinex.com": "ZEC",
+      "bitmex.com": "ZEC",
       "bittrex.com": "ZEC",
       "coincap.io": "ZEC",
       "coinmarketcap.com": "zcash",
       "kraken.com": "XZEC",
-      "shapeshift.io": "ZEC"
+      "shapeshift.io": "ZEC",
+      "yunbi.com": "ZEC"
     }
   }
 }
