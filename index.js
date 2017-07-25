@@ -1,5 +1,5 @@
-const glossary = require('./glossary.json')
-const delimiters = require('./delimiters.json')
+const glossary = require('./dist/glossary.json')
+const delimiters = require('./internal/delimiters.json')
 
 module.exports = {
   translate: (coin, service) => {

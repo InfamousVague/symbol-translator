@@ -1,11 +1,12 @@
 {
   "name": "crypto-normalize",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Apparently nobody can agree on crypto naming conventions, this package aggregates popular exchanges and sites and allows you to easily translate from our spec to other parties conventions.",
   "main": "index.js",
   "runkitExampleFilename": "example.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build/buildCoins.js && node build/build.js && node build/applyExtras.js"
   },
   "repository": {
     "type": "git",
