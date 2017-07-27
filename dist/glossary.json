@@ -3463,18 +3463,18 @@
       "shapeshift.io": "MTL"
     }
   },
-  "SJCX": {
-    "name": "StorjX",
-    "symbol": "SJCX",
+  "STORJ": {
+    "name": "Pending",
+    "symbol": "STORJ",
     "images": {
-      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
-      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
+      "large": false,
+      "small": false
     },
     "service": {
       "bittrex.com": "STORJ",
-      "coincap.io": "SJCX",
-      "coinmarketcap.com": "storjcoin-x",
-      "shapeshift.io": "SJCX"
+      "coincap.io": "STORJ",
+      "coinmarketcap.com": "storj",
+      "shapeshift.io": "STORJ"
     }
   },
   "ADX": {
@@ -3577,6 +3577,18 @@
       "coinmarketcap.com": "iconomi",
       "kraken.com": "XICN",
       "shapeshift.io": "ICN"
+    }
+  },
+  "SJCX": {
+    "name": "StorjX",
+    "symbol": "SJCX",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/storjcoinx.png",
+      "small": "https://shapeshift.io/images/coins-sm/storjcoinx.png"
+    },
+    "service": {
+      "coinmarketcap.com": "storjcoin-x",
+      "shapeshift.io": "SJCX"
     }
   },
   "KRW": {

@@ -1,5 +1,6 @@
 const glossary = require('./dist/glossary.json')
 const delimiters = require('./internal/delimiters.json')
+const tickers = require('./tickers')
 
 const symbolwiki = {
   translate: (coin, service) => {
@@ -28,6 +29,10 @@ const symbolwiki = {
 
   images: coin => {
     return glossary[coin].images
+  },
+
+  ticker: (base, target, service) => {
+    return tickers[service](base, target, symbolwiki)
   },
 
   glossary: () => glossary,

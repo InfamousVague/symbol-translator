@@ -23,6 +23,9 @@ normalize.translate("ETH", "kraken.com") // XETH
 
 // Translate from service, to spec
 normalize.translateFrom("kraken.com", "XXBT") // BTC
+/* Note: This method needs work and can fail in edge cases such as BTCCETH 
+where BTC will be found and CETH will be left as the second coin which is wrong. */
+
 
 // Shift symbol
 normalize.shift("XXBTXETH", "kraken.com", "gdax.com") // BTC-ETH

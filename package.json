@@ -1,6 +1,6 @@
 {
   "name": "crypto-normalize",
-  "version": "2.2.1",
+  "version": "2.3.1",
   "description": "Apparently nobody can agree on crypto naming conventions, this package aggregates popular exchanges and sites and allows you to easily translate from our spec to other parties conventions.",
   "main": "index.js",
   "runkitExampleFilename": "example.js",
@@ -24,6 +24,7 @@
   ],
   "homepage": "https://github.com/wski/symbol-translator#readme",
   "dependencies": {
+    "node-fetch": "^1.7.1",
     "walk": "^2.3.9"
   }
 }

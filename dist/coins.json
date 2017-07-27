@@ -2311,9 +2311,9 @@
       "small": false
     }
   },
-  "SJCX": {
+  "STORJ": {
     "name": "Pending",
-    "symbol": "SJCX",
+    "symbol": "STORJ",
     "images": {
       "large": false,
       "small": false
@@ -2378,6 +2378,14 @@
   "ICN": {
     "name": "Pending",
     "symbol": "ICN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "SJCX": {
+    "name": "Pending",
+    "symbol": "SJCX",
     "images": {
       "large": false,
       "small": false

@@ -21,3 +21,8 @@ normalize.coin("ZEC")
 console.log(
     normalize.shift("XXBTXETH", "kraken.com", "gdax.com")
 )
+
+
+normalize.ticker('BTC', 'ETH', 'okcoin.com').then(ticker => {
+    console.log('ticker', ticker)
+})
