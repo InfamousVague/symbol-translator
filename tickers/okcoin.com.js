@@ -8,8 +8,8 @@ module.exports = function(base, target, normalizer) {
             return res.json()
         }).then(json => {
             return {
-                buy: json.ticker.buy,
-                sell: json.ticker.sell,
+                bid: json.ticker.buy,
+                ask: json.ticker.sell,
                 last: json.ticker.last
             }
         })

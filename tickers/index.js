@@ -1,2 +1,5 @@
-exports['shapeshift.io'] = require('./shapeshift.io.js')
-exports['okcoin.com'] = require('./okcoin.com.js')
+exports['shapeshift.io']    = require('./shapeshift.io.js')
+exports['okcoin.com']       = require('./okcoin.com.js')
+exports['kraken.com']       = require('./kraken.com.js')
+exports['bitfinex.com']     = require('./bitfinex.com.js')
+exports['bittrex.com']      = require('./bittrex.com.js')
