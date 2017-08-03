@@ -12,5 +12,12 @@ module.exports = function(base, target, normalizer) {
                 ask: json.result.Ask,
                 last: json.result.Last
             }
+        }).catch(e => {
+            console.warn('Error getting bittrex data', e)
+            return {
+                bid: null,
+                ask: null,
+                last: null
+            }
         })
 }

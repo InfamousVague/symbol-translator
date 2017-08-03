@@ -12,5 +12,12 @@ module.exports = function(base, target, normalizer) {
                 ask: json.ticker.sell,
                 last: json.ticker.last
             }
+        }).catch(e => {
+            console.warn('Error getting okcoin data', e)
+            return {
+                bid: null,
+                ask: null,
+                last: null
+            }
         })
 }

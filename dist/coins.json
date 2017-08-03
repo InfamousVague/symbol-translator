@@ -1391,14 +1391,6 @@
       "small": false
     }
   },
-  "USDT": {
-    "name": "Pending",
-    "symbol": "USDT",
-    "images": {
-      "large": false,
-      "small": false
-    }
-  },
   "AMP": {
     "name": "Pending",
     "symbol": "AMP",
@@ -2378,6 +2370,14 @@
   "ICN": {
     "name": "Pending",
     "symbol": "ICN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "USDT": {
+    "name": "Pending",
+    "symbol": "USDT",
     "images": {
       "large": false,
       "small": false

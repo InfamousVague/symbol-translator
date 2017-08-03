@@ -12,5 +12,12 @@ module.exports = function(base, target, normalizer) {
                 ask: json.result[pair].a[0],
                 last: json.result[pair].c[0]
             }
+        }).catch(e => {
+            console.warn('Error getting kraken data', e)
+            return {
+                bid: null,
+                ask: null,
+                last: null
+            }
         })
 }

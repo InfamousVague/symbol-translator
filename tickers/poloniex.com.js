@@ -1,19 +1,20 @@
 const fetch = require('node-fetch')
 
 module.exports = function(base, target, normalizer) {
-    const pair = normalizer.pair(base, target, 'bitfinex.com').toLowerCase()
+    const pair = normalizer.pair(target, base, 'poloniex.com')
 
-    return fetch(`https://api.bitfinex.com/v1/pubticker/${pair}`)
+    return fetch(`https://poloniex.com/public?command=returnTicker`)
         .then(res => {
             return res.json()
         }).then(json => {
+            const coinPair = json[pair]
             return {
-                bid: json.bid,
-                ask: json.ask,
-                last: json.last_price
+                bid: coinPair.highestBid,
+                ask: coinPair.lowestAsk,
+                last: coinPair.last
             }
         }).catch(e => {
-            console.warn('Error getting bitfinex data', e)
+            console.warn('Error getting poloniex data', e)
             return {
                 bid: null,
                 ask: null,

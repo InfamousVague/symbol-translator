@@ -23,6 +23,7 @@
       "korbit.co.kr": "BTC",
       "kraken.com": "XXBT",
       "okcoin.com": "BTC",
+      "poloniex.com": "BTC",
       "shapeshift.io": "BTC",
       "yunbi.com": "BTC"
     }
@@ -48,6 +49,7 @@
       "huobi.com": "LTC",
       "kraken.com": "XLTC",
       "okcoin.com": "LTC",
+      "poloniex.com": "LTC",
       "shapeshift.io": "LTC"
     }
   },
@@ -74,6 +76,7 @@
       "korbit.co.kr": "ETH",
       "kraken.com": "XETH",
       "okcoin.com": "ETH",
+      "poloniex.com": "ETH",
       "shapeshift.io": "ETH",
       "yunbi.com": "ETH"
     }
@@ -149,6 +152,7 @@
       "coincap.io": "DASH",
       "coinmarketcap.com": "dash",
       "kraken.com": "DASH",
+      "poloniex.com": "DASH",
       "shapeshift.io": "DASH"
     }
   },
@@ -172,6 +176,7 @@
       "korbit.co.kr": "ETC",
       "kraken.com": "XETC",
       "okcoin.com": "ETC",
+      "poloniex.com": "ETC",
       "shapeshift.io": "ETC",
       "yunbi.com": "ETC"
     }
@@ -190,6 +195,7 @@
       "coincap.io": "ZEC",
       "coinmarketcap.com": "zcash",
       "kraken.com": "XZEC",
+      "poloniex.com": "ZEC",
       "shapeshift.io": "ZEC",
       "yunbi.com": "ZEC"
     }
@@ -208,6 +214,7 @@
       "coincap.io": "XMP",
       "coinmarketcap.com": "monero",
       "kraken.com": "XXMR",
+      "poloniex.com": "XMR",
       "shapeshift.io": "XMP"
     }
   },
@@ -240,6 +247,7 @@
       "coinone.co.kr": "XRP",
       "korbit.co.kr": "XRP",
       "kraken.com": "XXRP",
+      "poloniex.com": "XRP",
       "shapeshift.io": "XRP"
     }
   },
@@ -348,10 +356,12 @@
     "service": {
       "bitmex.com": "USD",
       "bitstamp.net": "USD",
+      "bittrex.com": "USDT",
       "btc-e.com": "USD",
       "gdax.com": "USD",
       "gemini.com": "USD",
-      "kraken.com": "ZUSD"
+      "kraken.com": "ZUSD",
+      "poloniex.com": "USDT"
     }
   },
   "EUR": {
@@ -446,6 +456,7 @@
       "bittrex.com": "NXT",
       "coincap.io": "NXT",
       "coinmarketcap.com": "nxt",
+      "poloniex.com": "NXT",
       "shapeshift.io": "NXT"
     }
   },
@@ -2092,21 +2103,6 @@
       "shapeshift.io": "MSC"
     }
   },
-  "USDT": {
-    "name": "Tether",
-    "symbol": "USDT",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/tether.png",
-      "small": "https://shapeshift.io/images/coins-sm/tether.png"
-    },
-    "service": {
-      "bittrex.com": "USDT",
-      "coincap.io": "USDT",
-      "coinmarketcap.com": "tether",
-      "kraken.com": "USDT",
-      "shapeshift.io": "USDT"
-    }
-  },
   "AMP": {
     "name": "Pending",
     "symbol": "AMP",
@@ -3577,6 +3573,20 @@
       "coinmarketcap.com": "iconomi",
       "kraken.com": "XICN",
       "shapeshift.io": "ICN"
+    }
+  },
+  "USDT": {
+    "name": "Tether",
+    "symbol": "USDT",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/tether.png",
+      "small": "https://shapeshift.io/images/coins-sm/tether.png"
+    },
+    "service": {
+      "coincap.io": "USDT",
+      "coinmarketcap.com": "tether",
+      "kraken.com": "USDT",
+      "shapeshift.io": "USDT"
     }
   },
   "SJCX": {

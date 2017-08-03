@@ -10,5 +10,12 @@ module.exports = function(base, target, normalizer) {
             return {
                 last: json.rate.toString()
             }
+        }).catch(e => {
+            console.warn('Error getting shapeshift data', e)
+            return {
+                bid: null,
+                ask: null,
+                last: null
+            }
         })
 }
