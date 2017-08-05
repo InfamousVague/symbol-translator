@@ -2559,7 +2559,7 @@
     "service": {
       "bittrex.com": "LBC",
       "coincap.io": "LBC",
-      "coinmarketcap.com": "library-credi",
+      "coinmarketcap.com": "library-credit",
       "shapeshift.io": "LBC"
     }
   },
