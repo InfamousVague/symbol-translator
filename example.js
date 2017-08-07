@@ -22,6 +22,6 @@ console.log(
     normalize.shift("XXBTXETH", "kraken.com", "gdax.com")
 )
 
-normalize.ticker('ETH', 'USD', 'poloniex.com').then(ticker => {
+normalize.ticker('BCH', 'BTC', 'hitbtc.com').then(ticker => {
     console.log('ticker', ticker)
 })

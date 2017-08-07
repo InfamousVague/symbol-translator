@@ -119,6 +119,14 @@
       "small": false
     }
   },
+  "BCH": {
+    "name": "Pending",
+    "symbol": "BCH",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
   "SNT": {
     "name": "Pending",
     "symbol": "SNT",
@@ -2383,9 +2391,105 @@
       "small": false
     }
   },
+  "BCN": {
+    "name": "Pending",
+    "symbol": "BCN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
   "SJCX": {
     "name": "Pending",
     "symbol": "SJCX",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "NOTE": {
+    "name": "Pending",
+    "symbol": "NOTE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "OMNI": {
+    "name": "Pending",
+    "symbol": "OMNI",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "FCN": {
+    "name": "Pending",
+    "symbol": "FCN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "QCN": {
+    "name": "Pending",
+    "symbol": "QCN",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XLC": {
+    "name": "Pending",
+    "symbol": "XLC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ZRC": {
+    "name": "Pending",
+    "symbol": "ZRC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "PLU": {
+    "name": "Pending",
+    "symbol": "PLU",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DICE": {
+    "name": "Pending",
+    "symbol": "DICE",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "QUA": {
+    "name": "Pending",
+    "symbol": "QUA",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "DNT": {
+    "name": "Pending",
+    "symbol": "DNT",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "STX": {
+    "name": "Pending",
+    "symbol": "STX",
     "images": {
       "large": false,
       "small": false
@@ -2410,6 +2514,22 @@
   "CAD": {
     "name": "Pending",
     "symbol": "CAD",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ROUND": {
+    "name": "Pending",
+    "symbol": "ROUND",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "VSL": {
+    "name": "Pending",
+    "symbol": "VSL",
     "images": {
       "large": false,
       "small": false

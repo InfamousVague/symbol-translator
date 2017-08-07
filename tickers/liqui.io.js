@@ -1,17 +1,16 @@
 const fetch = require('node-fetch')
 
 module.exports = function(base, target, normalizer) {
-    if (normalizer.doesSupport(base, 'shapeshift.io')) {
-        const pair = normalizer.pair(base, target, 'shapeshift.io')
-        
-        return fetch(`https://shapeshift.io/marketinfo/${pair}`)
+    if (normalizer.doesSupport(base, 'liqui.io')) {
+        const pair = normalizer.pair(base, target, 'liqui.io')
+        return fetch(`https://api.liqui.io/api/3/ticker/${pair.toLowerCase()}`)
             .then(res => {
                 return res.json()
             }).then(json => {
                 return {
-                    bid: json.rate.toString(),
-                    last: json.rate.toString(),
-                    ask: json.rate.toString()
+                    bid: json[pair.toLowerCase()].buy,
+                    ask: json[pair.toLowerCase()].sell,
+                    last: json[pair.toLowerCase()].last
                 }
             }).catch(e => {
                 return {

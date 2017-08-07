@@ -1,6 +1,6 @@
 {
   "name": "crypto-normalize",
-  "version": "2.3.10",
+  "version": "2.3.19",
   "description": "Apparently nobody can agree on crypto naming conventions, this package aggregates popular exchanges and sites and allows you to easily translate from our spec to other parties conventions.",
   "main": "index.js",
   "runkitExampleFilename": "example.js",
