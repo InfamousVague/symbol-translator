@@ -8,6 +8,7 @@
   "NXT": "NXT",
   "DASH": "DASH",
   "XMR": "XMR",
+  "SYS": "SYS",
   "XRP": "XRP",
   "XEM": "XEM",
   "STRAT": "STRAT",
@@ -32,6 +33,7 @@
   "VTC": "VTC",
   "NEOS": "NEOS",
   "SJCX": "SJCX",
+  "XPM": "XPM",
   "RADS": "RADS",
   "NOTE": "NOTE",
   "OMNI": "OMNI",
@@ -41,7 +43,10 @@
   "BCY": "BCY",
   "SBD": "SBD",
   "PINK": "PINK",
+  "XLM": "XLM",
   "GRC": "GRC",
   "NXC": "NXC",
-  "XVC": "XVC"
+  "XVC": "XVC",
+  "XBC": "XBC",
+  "ZRX": "ZRX"
 }

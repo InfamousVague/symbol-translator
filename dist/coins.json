@@ -239,6 +239,14 @@
       "small": false
     }
   },
+  "CVC": {
+    "name": "Pending",
+    "symbol": "CVC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
   "POT": {
     "name": "Pending",
     "symbol": "POT",
@@ -2327,14 +2335,6 @@
       "small": false
     }
   },
-  "CVC": {
-    "name": "Pending",
-    "symbol": "CVC",
-    "images": {
-      "large": false,
-      "small": false
-    }
-  },
   "PART": {
     "name": "Pending",
     "symbol": "PART",
@@ -2391,6 +2391,14 @@
       "small": false
     }
   },
+  "XBC": {
+    "name": "Pending",
+    "symbol": "XBC",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
   "BCN": {
     "name": "Pending",
     "symbol": "BCN",
@@ -2418,6 +2426,14 @@
   "OMNI": {
     "name": "Pending",
     "symbol": "OMNI",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "ZRX": {
+    "name": "Pending",
+    "symbol": "ZRX",
     "images": {
       "large": false,
       "small": false
@@ -2530,6 +2546,14 @@
   "VSL": {
     "name": "Pending",
     "symbol": "VSL",
+    "images": {
+      "large": false,
+      "small": false
+    }
+  },
+  "XPM": {
+    "name": "Pending",
+    "symbol": "XPM",
     "images": {
       "large": false,
       "small": false

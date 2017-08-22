@@ -490,6 +490,22 @@
       "shapeshift.io": "NXT"
     }
   },
+  "CVC": {
+    "name": "Civic",
+    "symbol": "CVC",
+    "images": {
+      "large": "https://shapeshift.io/images/coins/civic.png",
+      "small": "https://shapeshift.io/images/coins-sm/civic.png"
+    },
+    "service": {
+      "bittrex.com": "CVC",
+      "coincap.io": "CVC",
+      "coinmarketcap.com": "civic",
+      "hitbtc.com": "CVC",
+      "liqui.io": "CVC",
+      "shapeshift.io": "CVC"
+    }
+  },
   "POT": {
     "name": "Potcoin",
     "symbol": "POT",
@@ -1166,7 +1182,9 @@
       "small": false
     },
     "service": {
-      "bittrex.com": "SYS"
+      "bittrex.com": "SYS",
+      "coincap.io": "SYS",
+      "poloniex.com": "SYS"
     }
   },
   "NEOS": {
@@ -2194,7 +2212,9 @@
       "small": false
     },
     "service": {
-      "bittrex.com": "XLM"
+      "bittrex.com": "XLM",
+      "coincap.io": "XLM",
+      "poloniex.com": "XLM"
     }
   },
   "SPRTS": {
@@ -3161,6 +3181,7 @@
     "service": {
       "bittrex.com": "NXC",
       "coincap.io": "NXC",
+      "hitbtc.com": "NXC",
       "poloniex.com": "NXC"
     }
   },
@@ -3596,20 +3617,6 @@
       "bittrex.com": "ADX"
     }
   },
-  "CVC": {
-    "name": "Civic",
-    "symbol": "CVC",
-    "images": {
-      "large": "https://shapeshift.io/images/coins/civic.png",
-      "small": "https://shapeshift.io/images/coins-sm/civic.png"
-    },
-    "service": {
-      "bittrex.com": "CVC",
-      "coincap.io": "CVC",
-      "coinmarketcap.com": "civic",
-      "shapeshift.io": "CVC"
-    }
-  },
   "PART": {
     "name": "Pending",
     "symbol": "PART",
@@ -3704,6 +3711,19 @@
       "shapeshift.io": "USDT"
     }
   },
+  "XBC": {
+    "name": "Pending",
+    "symbol": "XBC",
+    "images": {
+      "large": false,
+      "small": false
+    },
+    "service": {
+      "coincap.io": "XBC",
+      "coinmarketcap.com": "bitcoin-plus",
+      "poloniex.com": "XBC"
+    }
+  },
   "BCN": {
     "name": "Pending",
     "symbol": "BCN",
@@ -3752,6 +3772,20 @@
     "service": {
       "coincap.io": "OMNI",
       "poloniex.com": "OMNI"
+    }
+  },
+  "ZRX": {
+    "name": "Pending",
+    "symbol": "ZRX",
+    "images": {
+      "large": false,
+      "small": false
+    },
+    "service": {
+      "coincap.io": "ZRX",
+      "coinmarketcap.com": "0x",
+      "liqui.io": "ZRX",
+      "poloniex.com": "ZRX"
     }
   },
   "FCN": {
@@ -3907,6 +3941,17 @@
     },
     "service": {
       "liqui.io": "VSL"
+    }
+  },
+  "XPM": {
+    "name": "Pending",
+    "symbol": "XPM",
+    "images": {
+      "large": false,
+      "small": false
+    },
+    "service": {
+      "poloniex.com": "XPM"
     }
   }
 }

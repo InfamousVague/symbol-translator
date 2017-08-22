@@ -1,19 +1,18 @@
 const fetch = require('node-fetch')
 
 module.exports = function(base, target, normalizer) {
-    if (normalizer.doesSupport(base, 'poloniex.com')) {
-        const pair = normalizer.pair(target, base, 'poloniex.com')
-
-        return fetch(`https://poloniex.com/public?command=returnTicker`)
+    if (normalizer.doesSupport(base, 'gdax.com')) {
+        const pair = normalizer.pair(base, target, 'gdax.com')
+        
+        return fetch(`https://api.gdax.com/products/${pair}/ticker/`)
             .then(res => {
                 return res.json()
             }).then(json => {
-                const coinPair = json[pair]
                 return {
-                    bid: coinPair.highestBid,
-                    ask: coinPair.lowestAsk,
-                    last: coinPair.last,
-                    volume: coinPair.quoteVolume
+                    bid: json.bid,
+                    last: json.price,
+                    ask: json.ask,
+                    volume: json.volume
                 }
             }).catch(e => {
                 return {

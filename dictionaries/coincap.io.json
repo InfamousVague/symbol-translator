@@ -31,6 +31,7 @@
   "LSK": "LSK",
   "LTC": "LTC",
   "MAID":"MAID",
+  "SYS": "SYS",
   "MLN": "MLN",
   "MTL": "MTL",
   "MONA":"MONA",
@@ -65,7 +66,9 @@
   "WINGS": "WINGS",
   "XCP": "XCP",
   "XMR": "XMP",
+  "XBC": "XBC",
   "XRP": "XRP",
+  "XLM": "XLM",
   "ZEC": "ZEC",
   "XEM": "XEM",
   "STRAT": "STRAT",
@@ -85,5 +88,6 @@
   "PINK": "PINK",
   "GRC": "GRC",
   "NXC": "NXC",
-  "XVC": "XVC"
+  "XVC": "XVC",
+  "ZRX": "ZRX"
 }

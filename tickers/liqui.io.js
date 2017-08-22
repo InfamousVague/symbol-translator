@@ -10,7 +10,8 @@ module.exports = function(base, target, normalizer) {
                 return {
                     bid: json[pair.toLowerCase()].buy,
                     ask: json[pair.toLowerCase()].sell,
-                    last: json[pair.toLowerCase()].last
+                    last: json[pair.toLowerCase()].last,
+                    volume: json[pair.toLowerCase()].vol_cur
                 }
             }).catch(e => {
                 return {

@@ -67,5 +67,7 @@
   "XCP": "counterparty",
   "XMR": "monero",
   "XRP": "ripple",
-  "ZEC": "zcash"
+  "XBC": "bitcoin-plus",
+  "ZEC": "zcash",
+  "ZRX": "0x"
 }

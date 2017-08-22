@@ -11,13 +11,15 @@ module.exports = function(base, target, normalizer) {
                 return {
                     bid: json.ticker.buy,
                     ask: json.ticker.sell,
-                    last: json.ticker.last
+                    last: json.ticker.last,
+                    volume: json.ticker.vol
                 }
             }).catch(e => {
                 return {
                     bid: null,
                     ask: null,
-                    last: null
+                    last: null,
+                    volume: null
                 }
             })
     } else {
@@ -25,7 +27,8 @@ module.exports = function(base, target, normalizer) {
             resolve({
                 bid: null,
                 ask: null,
-                last: null
+                last: null,
+                volume: null
             })
         })
     }
